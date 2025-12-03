@@ -14,7 +14,7 @@ publish_wechat: False
 # Archive configuration
 enable_archive: True # Set to True to enable archiving old papers
 archive_root: "./archives" # Root directory for archived papers
-keep_days: 30 # Number of days to keep in main README (older papers will be archived)
+keep_days: 7 # Number of days to keep in main README (older papers will be archived)
 
 # file paths
 json_readme_path: "./docs/cv-arxiv-daily.json"
