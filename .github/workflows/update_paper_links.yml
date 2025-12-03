@@ -41,6 +41,7 @@ jobs:
           pip install arxiv
           pip install requests
           pip install pyyaml
+          pip install paperswithcode-client
 
       - name: Run daily arxiv
         run: |
