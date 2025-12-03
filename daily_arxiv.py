@@ -73,14 +73,26 @@ def get_code_link(arxiv_id: str) -> str:
 
         client = PapersWithCodeClient()
 
-        # Query paper repositories using arxiv_id
         # Remove version suffix if present (e.g., "2103.14030v1" -> "2103.14030")
         arxiv_id_clean = arxiv_id.split('v')[0] if 'v' in arxiv_id else arxiv_id
 
         logging.info(f"Searching code for arXiv ID: {arxiv_id_clean}")
 
-        # Search for paper by arxiv_id
-        repos = client.paper_repository_list(arxiv_id=arxiv_id_clean)
+        # Step 1: Search for paper by arxiv_id
+        papers = client.paper_list(arxiv_id=arxiv_id_clean)
+
+        if not papers.results or len(papers.results) == 0:
+            logging.info(f"No paper found for arXiv ID: {arxiv_id_clean}")
+            return None
+
+        # Step 2: Get the paper_id from the first result
+        paper = papers.results[0]
+        paper_id = paper.id
+
+        logging.info(f"Found paper: {paper.title} (ID: {paper_id})")
+
+        # Step 3: Get repositories for this paper
+        repos = client.paper_repository_list(paper_id=paper_id)
 
         if repos.results and len(repos.results) > 0:
             # Return the first repository URL (usually the official implementation)
@@ -88,7 +100,7 @@ def get_code_link(arxiv_id: str) -> str:
             logging.info(f"Found code link: {code_link}")
             return code_link
         else:
-            logging.info(f"No code found for arXiv ID: {arxiv_id_clean}")
+            logging.info(f"No code found for paper: {paper.title}")
             return None
 
     except Exception as e:
