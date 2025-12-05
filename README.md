@@ -1,4 +1,4 @@
-## Updated on 2025.12.03
+## Updated on 2025.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems**|M Zeeshan et.al.|[2512.04895](http://arxiv.org/abs/2512.04895)|null|
+|**2025-12-04**|**From Symptoms to Systems: An Expert-Guided Approach to Understanding Risks of Generative AI for Eating Disorders**|Amy Winecoff et.al.|[2512.04843](http://arxiv.org/abs/2512.04843)|null|
+|**2025-12-04**|**SoK: a Comprehensive Causality Analysis Framework for Large Language Model Security**|Wei Zhao et.al.|[2512.04841](http://arxiv.org/abs/2512.04841)|null|
+|**2025-12-04**|**ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications**|Eranga Bandara et.al.|[2512.04785](http://arxiv.org/abs/2512.04785)|null|
+|**2025-12-04**|**Topology Matters: Measuring Memory Leakage in Multi-Agent LLMs**|Jinbo Liu et.al.|[2512.04668](http://arxiv.org/abs/2512.04668)|null|
+|**2025-12-04**|**PBFuzz: Agentic Directed Fuzzing for PoV Generation**|Haochen Zeng et.al.|[2512.04611](http://arxiv.org/abs/2512.04611)|null|
+|**2025-12-04**|**Omniscient Attacker in Stochastic Security Games with Interdependent Nodes**|Yuksel Arslantas et.al.|[2512.04561](http://arxiv.org/abs/2512.04561)|null|
+|**2025-12-04**|**Counterfeit Answers: Adversarial Forgery against OCR-Free Document Visual Question Answering**|Marco Pintore et.al.|[2512.04554](http://arxiv.org/abs/2512.04554)|null|
+|**2025-12-04**|**RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS**|Cong Wang et.al.|[2512.04552](http://arxiv.org/abs/2512.04552)|null|
+|**2025-12-04**|**ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits**|Chen Chen et.al.|[2512.04436](http://arxiv.org/abs/2512.04436)|null|
 |**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Yuan Xiong et.al.|[2512.02973](http://arxiv.org/abs/2512.02973)|null|
 |**2025-12-02**|**Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts**|Wanxu Xia et.al.|[2512.02918](http://arxiv.org/abs/2512.02918)|null|
 |**2025-12-02**|**VLM as Strategist: Adaptive Generation of Safety-critical Testing Scenarios via Guided Diffusion**|Xinzheng Wu et.al.|[2512.02844](http://arxiv.org/abs/2512.02844)|null|
@@ -24,12 +34,22 @@
 |**2025-12-01**|**DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses**|Han Luo et.al.|[2512.02282](http://arxiv.org/abs/2512.02282)|null|
 |**2025-12-01**|**Adversarial Robustness of Traffic Classification under Resource Constraints: Input Structure Matters**|Adel Chehade et.al.|[2512.02276](http://arxiv.org/abs/2512.02276)|null|
 
-<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
+|**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
+|**2025-12-04**|**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**|Feng Xu et.al.|[2512.05107](http://arxiv.org/abs/2512.05107)|null|
+|**2025-12-04**|**NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation**|Yu Zeng et.al.|[2512.05106](http://arxiv.org/abs/2512.05106)|null|
+|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-04**|**Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression**|Jung Yi et.al.|[2512.05081](http://arxiv.org/abs/2512.05081)|null|
+|**2025-12-04**|**David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?**|Shashwat Shankar et.al.|[2512.05073](http://arxiv.org/abs/2512.05073)|null|
+|**2025-12-04**|**Personalizing Agent Privacy Decisions via Logical Entailment**|James Flemings et.al.|[2512.05065](http://arxiv.org/abs/2512.05065)|null|
+|**2025-12-04**|**Debt, Growth, and the Carbon Lock-In**|Silvia Montagnania et.al.|[2512.05063](http://arxiv.org/abs/2512.05063)|null|
+|**2025-12-04**|**4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer**|Xianfeng Wu et.al.|[2512.05060](http://arxiv.org/abs/2512.05060)|null|
 |**2025-12-02**|**CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models**|Minkyung Kwon et.al.|[2512.03045](http://arxiv.org/abs/2512.03045)|null|
 |**2025-12-02**|**PPTArena: A Benchmark for Agentic PowerPoint Editing**|Michael Ofengenden et.al.|[2512.03042](http://arxiv.org/abs/2512.03042)|null|
 |**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
@@ -41,7 +61,7 @@
 |**2025-12-02**|**In-Context Sync-LoRA for Portrait Video Editing**|Sagi Polaczek et.al.|[2512.03013](http://arxiv.org/abs/2512.03013)|null|
 |**2025-12-02**|**From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?**|Dawei Li et.al.|[2512.03005](http://arxiv.org/abs/2512.03005)|null|
 
-<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
