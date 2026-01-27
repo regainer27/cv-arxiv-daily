@@ -1,4 +1,4 @@
-## Updated on 2026.01.25
+## Updated on 2026.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints**|Andy Zhu et.al.|[2601.16905](http://arxiv.org/abs/2601.16905)|null|
+|**2026-01-23**|**Quantum Position Verification with Remote Untrusted Devices**|Gautam A. Kavuri et.al.|[2601.16892](http://arxiv.org/abs/2601.16892)|null|
+|**2026-01-23**|**Orbitopal Fixing in SAT**|Markus Anders et.al.|[2601.16855](http://arxiv.org/abs/2601.16855)|null|
+|**2026-01-23**|**The Astrosky Ecosystem: An independent online platform for science communication and social networking**|Emily L. Hunt et.al.|[2601.16838](http://arxiv.org/abs/2601.16838)|null|
+|**2026-01-23**|**"What I Sign Is Not What I See": Towards Explainable and Trustworthy Cryptocurrency Wallet Signatures**|Yuyang Qin et.al.|[2601.16751](http://arxiv.org/abs/2601.16751)|null|
+|**2026-01-23**|**From Transactions to Exploits: Automated PoC Synthesis for Real-World DeFi Attacks**|Xing Su et.al.|[2601.16681](http://arxiv.org/abs/2601.16681)|null|
+|**2026-01-23**|**Integrating Meteorological and Operational Data: A Novel Approach to Understanding Railway Delays in Finland**|Vinicius Pozzobon Borin et.al.|[2601.16592](http://arxiv.org/abs/2601.16592)|null|
+|**2026-01-23**|**Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey**|Pablo Sorrentino et.al.|[2601.16589](http://arxiv.org/abs/2601.16589)|null|
+|**2026-01-23**|**SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care**|Dongshen Peng et.al.|[2601.16529](http://arxiv.org/abs/2601.16529)|null|
+|**2026-01-23**|**Noise-immune and AI-enhanced DNA storage via adaptive partition mapping of digital data**|Zimu Li et.al.|[2601.16518](http://arxiv.org/abs/2601.16518)|null|
 |**2026-01-22**|**Provable Robustness in Multimodal Large Language Models via Feature Space Smoothing**|Song Xia et.al.|[2601.16200](http://arxiv.org/abs/2601.16200)|null|
 |**2026-01-22**|**Engineering polarization: How contradictory stimulation systematically undermines political moderation**|Renato Vieira dos Santos et.al.|[2601.16181](http://arxiv.org/abs/2601.16181)|null|
 |**2026-01-22**|**CONTEX-T: Contextual Privacy Exploitation via Transformer Spectral Analysis for IoT Device Fingerprinting**|Nazmul Islam et.al.|[2601.16160](http://arxiv.org/abs/2601.16160)|null|
@@ -32,23 +42,23 @@
 |**2026-01-21**|**Does medical specialization of VLMs enhance discriminative power?: A comprehensive investigation through feature distribution analysis**|Keita Takeda et.al.|[2601.14774](http://arxiv.org/abs/2601.14774)|null|
 |**2026-01-21**|**Triage knowledge distillation for speaker verification**|Ju-ho Kim et.al.|[2601.14699](http://arxiv.org/abs/2601.14699)|null|
 |**2026-01-21**|**Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation**|Muhammad Khalifa et.al.|[2601.14691](http://arxiv.org/abs/2601.14691)|null|
-|**2026-01-16**|**Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)**|Letitia W. Li et.al.|[2601.11510](http://arxiv.org/abs/2601.11510)|null|
-|**2026-01-16**|**The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents**|Eilam Shapira et.al.|[2601.11496](http://arxiv.org/abs/2601.11496)|null|
-|**2026-01-16**|**PRISM-CAFO: Prior-conditioned Remote-sensing Infrastructure Segmentation and Mapping for CAFOs**|Oishee Bintey Hoque et.al.|[2601.11451](http://arxiv.org/abs/2601.11451)|null|
-|**2026-01-16**|**IMS: Intelligent Hardware Monitoring System for Secure SoCs**|Wadid Foudhaili et.al.|[2601.11447](http://arxiv.org/abs/2601.11447)|null|
-|**2026-01-16**|**Forcing and Diagnosing Failure Modes of Fourier Neural Operators Across Diverse PDE Families**|Lennon Shikhman et.al.|[2601.11428](http://arxiv.org/abs/2601.11428)|null|
-|**2026-01-16**|**Qihe: A General-Purpose Static Analysis Framework for Verilog**|Qinlin Chen et.al.|[2601.11408](http://arxiv.org/abs/2601.11408)|null|
-|**2026-01-16**|**LLM-Assisted Pseudo-Relevance Feedback**|David Otero et.al.|[2601.11238](http://arxiv.org/abs/2601.11238)|null|
-|**2026-01-16**|**VidLeaks: Membership Inference Attacks Against Text-to-Video Models**|Li Wang et.al.|[2601.11210](http://arxiv.org/abs/2601.11210)|null|
-|**2026-01-16**|**SD-RAG: A Prompt-Injection-Resilient Framework for Selective Disclosure in Retrieval-Augmented Generation**|Aiman Al Masoud et.al.|[2601.11199](http://arxiv.org/abs/2601.11199)|null|
-|**2026-01-16**|**Proving Circuit Functional Equivalence in Zero Knowledge**|Sirui Shen et.al.|[2601.11173](http://arxiv.org/abs/2601.11173)|null|
 
-<p align=right>(<a href=#updated-on-20260125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents**|Zirui Wang et.al.|[2601.16973](http://arxiv.org/abs/2601.16973)|null|
+|**2026-01-23**|**Autonomous Optical Alignment of Satellite-Based Entanglement Sources using Reinforcement Learning**|Andrzej Gajewski et.al.|[2601.16968](http://arxiv.org/abs/2601.16968)|null|
+|**2026-01-23**|**Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts**|Riyang Bao et.al.|[2601.16965](http://arxiv.org/abs/2601.16965)|null|
+|**2026-01-23**|**AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems**|Mohamed Amine Ferrag et.al.|[2601.16964](http://arxiv.org/abs/2601.16964)|null|
+|**2026-01-23**|**DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers**|Avinash Maurya et.al.|[2601.16956](http://arxiv.org/abs/2601.16956)|null|
+|**2026-01-23**|**Domain-invariant Mixed-domain Semi-supervised Medical Image Segmentation with Clustered Maximum Mean Discrepancy Alignment**|Ba-Thinh Lam et.al.|[2601.16954](http://arxiv.org/abs/2601.16954)|null|
+|**2026-01-23**|**Strategies for Span Labeling with Large Language Models**|Danil Semin et.al.|[2601.16946](http://arxiv.org/abs/2601.16946)|null|
+|**2026-01-23**|**Forecast on the generalised dark matter properties from a Euclid-like survey**|Ziad Sakr et.al.|[2601.16943](http://arxiv.org/abs/2601.16943)|null|
+|**2026-01-23**|**Is BatchEnsemble a Single Model? On Calibration and Diversity of Efficient Ensembles**|Anton Zamyatin et.al.|[2601.16936](http://arxiv.org/abs/2601.16936)|null|
+|**2026-01-23**|**In Quest of an Extensible Multi-Level Harm Taxonomy for Adversarial AI: Heart of Security, Ethical Risk Scoring and Resilience Analytics**|Javed I. Khan et.al.|[2601.16930](http://arxiv.org/abs/2601.16930)|null|
 |**2026-01-22**|**CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback**|Wenhang Ge et.al.|[2601.16214](http://arxiv.org/abs/2601.16214)|null|
 |**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[2601.16212](http://arxiv.org/abs/2601.16212)|null|
 |**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210](http://arxiv.org/abs/2601.16210)|null|
@@ -69,18 +79,8 @@
 |**2026-01-21**|**When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling**|Niful Islam et.al.|[2601.15232](http://arxiv.org/abs/2601.15232)|null|
 |**2026-01-21**|**Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models**|Anmol Goel et.al.|[2601.15220](http://arxiv.org/abs/2601.15220)|null|
 |**2026-01-21**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](http://arxiv.org/abs/2601.15212)|null|
-|**2026-01-16**|**Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)**|Letitia W. Li et.al.|[2601.11510](http://arxiv.org/abs/2601.11510)|null|
-|**2026-01-16**|**Raman scattering fingerprints of the charge density wave state in one-dimensional NbTe $_4$**|Natalia Zawadzka et.al.|[2601.11502](http://arxiv.org/abs/2601.11502)|null|
-|**2026-01-16**|**The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents**|Eilam Shapira et.al.|[2601.11496](http://arxiv.org/abs/2601.11496)|null|
-|**2026-01-16**|**CTest-Metric: A Unified Framework to Assess Clinical Validity of Metrics for CT Report Generation**|Vanshali Sharma et.al.|[2601.11488](http://arxiv.org/abs/2601.11488)|null|
-|**2026-01-16**|**Health Facility Location in Ethiopia: Leveraging LLMs to Integrate Expert Knowledge into Algorithmic Planning**|Yohai Trabelsi et.al.|[2601.11479](http://arxiv.org/abs/2601.11479)|null|
-|**2026-01-16**|**Temporal Complexity and Self-Organization in an Exponential Dense Associative Memory Model**|Marco Cafiso et.al.|[2601.11478](http://arxiv.org/abs/2601.11478)|null|
-|**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475](http://arxiv.org/abs/2601.11475)|null|
-|**2026-01-16**|**Low-Rank Key Value Attention**|James O'Neill et.al.|[2601.11471](http://arxiv.org/abs/2601.11471)|null|
-|**2026-01-16**|**MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models**|Xiaoran Fan et.al.|[2601.11464](http://arxiv.org/abs/2601.11464)|null|
-|**2026-01-16**|**Stochastic Recursive Inclusions under Biased Perturbations: An Input-to-State Stability Perspective**|Anik Kumar Paul et.al.|[2601.11462](http://arxiv.org/abs/2601.11462)|null|
 
-<p align=right>(<a href=#updated-on-20260125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
