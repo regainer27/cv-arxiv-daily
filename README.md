@@ -1,4 +1,4 @@
-## Updated on 2026.02.05
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Paradox of De-identification: A Critique of HIPAA Safe Harbour in the Age of LLMs**|Lavender Y. Jiang et.al.|[2602.08997](http://arxiv.org/abs/2602.08997)|null|
+|**2026-02-09**|**Reverse Online Guessing Attacks on PAKE Protocols**|Eloise Christian et.al.|[2602.08993](http://arxiv.org/abs/2602.08993)|null|
+|**2026-02-09**|**Analyzing Vaccine Manufacturing Supply Chain Disruptions for Pandemic Preparedness using Discrete-Event Simulation**|Robin Kelchtermans et.al.|[2602.08988](http://arxiv.org/abs/2602.08988)|null|
+|**2026-02-09**|**StealthRL: Reinforcement Learning Paraphrase Attacks for Multi-Detector Evasion of AI-Text Detectors**|Suraj Ranganath et.al.|[2602.08934](http://arxiv.org/abs/2602.08934)|null|
+|**2026-02-09**|**Cooperative Sovereignty on Mars: Lessons from the International Telecommunication Union and Universal Postal Union**|Alexander H. Ferdinand Ferguson et.al.|[2602.08853](http://arxiv.org/abs/2602.08853)|null|
+|**2026-02-09**|**Verifying DNN-based Semantic Communication Against Generative Adversarial Noise**|Thanh Le et.al.|[2602.08801](http://arxiv.org/abs/2602.08801)|null|
+|**2026-02-09**|**DyMA-Fuzz: Dynamic Direct Memory Access Abstraction for Re-hosted Monolithic Firmware Fuzzing**|Guy Farrelly et.al.|[2602.08750](http://arxiv.org/abs/2602.08750)|null|
+|**2026-02-09**|**LLMs + Security = Trouble**|Benjamin Livshits et.al.|[2602.08422](http://arxiv.org/abs/2602.08422)|null|
+|**2026-02-09**|**From Assistant to Double Agent: Formalizing and Benchmarking Attacks on OpenClaw for Personalized Local AI Agent**|Yuhang Wang et.al.|[2602.08412](http://arxiv.org/abs/2602.08412)|null|
+|**2026-02-09**|**On Protecting Agentic Systems' Intellectual Property via Watermarking**|Liwen Wang et.al.|[2602.08401](http://arxiv.org/abs/2602.08401)|null|
 |**2026-02-03**|**Decision-oriented benchmarking to transform AI weather forecast access: Application to the Indian monsoon**|Rajat Masiwal et.al.|[2602.03767](http://arxiv.org/abs/2602.03767)|null|
 |**2026-02-03**|**Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems**|Haibo Jin et.al.|[2602.03695](http://arxiv.org/abs/2602.03695)|null|
 |**2026-02-03**|**Can Developers rely on LLMs for Secure IaC Development?**|Ehsan Firouzi et.al.|[2602.03648](http://arxiv.org/abs/2602.03648)|null|
@@ -43,23 +53,23 @@
 |**2026-01-29**|**ICL-EVADER: Zero-Query Black-Box Evasion Attacks on In-Context Learning and Their Defenses**|Ningyuan He et.al.|[2601.21586](http://arxiv.org/abs/2601.21586)|null|
 |**2026-01-29**|**Multi-objective Integer Linear Programming approach for Automatic Software Cognitive Complexity Reduction**|Adriana Novoa-Hurtado et.al.|[2601.21565](http://arxiv.org/abs/2601.21565)|null|
 |**2026-01-29**|**From Vulnerable to Resilient: Examining Parent and Teen Perceptions on How to Respond to Unwanted Cybergrooming Advances**|Xinyi Zhang et.al.|[2601.21518](http://arxiv.org/abs/2601.21518)|null|
-|**2026-01-27**|**Assessing Task-based Chatbots: Snapshot and Curated Datasets for Dialogflow**|Elena Masserini et.al.|[2601.19787](http://arxiv.org/abs/2601.19787)|null|
-|**2026-01-27**|**GraphDLG: Exploring Deep Leakage from Gradients in Federated Graph Learning**|Shuyue Wei et.al.|[2601.19745](http://arxiv.org/abs/2601.19745)|null|
-|**2026-01-27**|**RvB: Automating AI System Hardening via Iterative Red-Blue Games**|Lige Huang et.al.|[2601.19726](http://arxiv.org/abs/2601.19726)|null|
-|**2026-01-27**|**Who Said CVE? How Vulnerability Identifiers Are Mentioned by Humans, Bots, and Agents in Pull Requests**|Pien Rooijendijk et.al.|[2601.19636](http://arxiv.org/abs/2601.19636)|null|
-|**2026-01-27**|**Self-locking non-volatile coding metasurfaces via origami-based mechanical bits**|Ding Zhang et.al.|[2601.19632](http://arxiv.org/abs/2601.19632)|null|
-|**2026-01-27**|**Automated Safety Benchmarking: A Multi-agent Pipeline for LVLMs**|Xiangyang Zhu et.al.|[2601.19507](http://arxiv.org/abs/2601.19507)|null|
-|**2026-01-27**|**From Internal Diagnosis to External Auditing: A VLM-Driven Paradigm for Online Test-Time Backdoor Defense**|Binyan Xu et.al.|[2601.19448](http://arxiv.org/abs/2601.19448)|null|
-|**2026-01-27**|**Selective Steering: Norm-Preserving Control Through Discriminative Layer Selection**|Quy-Anh Dang et.al.|[2601.19375](http://arxiv.org/abs/2601.19375)|null|
-|**2026-01-27**|**Modeling Behavioral Signals in Job Scams: A Human-Centered Security Study**|Goni Anagha et.al.|[2601.19342](http://arxiv.org/abs/2601.19342)|null|
-|**2026-01-27**|**From Observations to Events: Event-Aware World Model for Reinforcement Learning**|Zhao-Han Peng et.al.|[2601.19336](http://arxiv.org/abs/2601.19336)|null|
 
-<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**$χ_{0}$ : Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**|Checheng Yu et.al.|[2602.09021](http://arxiv.org/abs/2602.09021)|null|
+|**2026-02-09**|**Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving**|Amir Mallak et.al.|[2602.09018](http://arxiv.org/abs/2602.09018)|null|
+|**2026-02-09**|**Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense**|Jiacheng Liu et.al.|[2602.09012](http://arxiv.org/abs/2602.09012)|null|
+|**2026-02-09**|**ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling**|Yilang Zhang et.al.|[2602.09009](http://arxiv.org/abs/2602.09009)|null|
+|**2026-02-09**|**Data Science and Technology Towards AGI Part I: Tiered Data Management**|Yudong Wang et.al.|[2602.09003](http://arxiv.org/abs/2602.09003)|null|
+|**2026-02-09**|**From Obstacles to Etiquette: Robot Social Navigation with VLM-Informed Path Selection**|Zilin Fang et.al.|[2602.09002](http://arxiv.org/abs/2602.09002)|null|
+|**2026-02-09**|**iGRPO: Self-Feedback-Driven LLM Reasoning**|Ali Hatamizadeh et.al.|[2602.09000](http://arxiv.org/abs/2602.09000)|null|
+|**2026-02-09**|**When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents**|Yuting Ning et.al.|[2602.08995](http://arxiv.org/abs/2602.08995)|null|
+|**2026-02-09**|**InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery**|Shiyang Feng et.al.|[2602.08990](http://arxiv.org/abs/2602.08990)|null|
+|**2026-02-09**|**Forward-mode automatic differentiation for the tensor renormalization group and its relation to the impurity method**|Yuto Sugimoto et.al.|[2602.08987](http://arxiv.org/abs/2602.08987)|null|
 |**2026-02-03**|**AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations**|Minjun Zhu et.al.|[2602.03828](http://arxiv.org/abs/2602.03828)|null|
 |**2026-02-03**|**Deep-learning-based pan-phenomic data reveals the explosive evolution of avian visual disparity**|Jiao Sun et.al.|[2602.03824](http://arxiv.org/abs/2602.03824)|null|
 |**2026-02-03**|**They Said Memes Were Harmless-We Found the Ones That Hurt: Decoding Jokes, Symbols, and Cultural References**|Sahil Tripathi et.al.|[2602.03822](http://arxiv.org/abs/2602.03822)|null|
@@ -90,18 +100,8 @@
 |**2026-01-29**|**StepShield: When, Not Whether to Intervene on Rogue Agents**|Gloria Felicia et.al.|[2601.22136](http://arxiv.org/abs/2601.22136)|null|
 |**2026-01-29**|**World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems**|Lakshya Gupta et.al.|[2601.22130](http://arxiv.org/abs/2601.22130)|null|
 |**2026-01-29**|**SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents**|Yifeng Ding et.al.|[2601.22129](http://arxiv.org/abs/2601.22129)|null|
-|**2026-01-27**|**DuwatBench: Bridging Language and Visual Heritage through an Arabic Calligraphy Benchmark for Multimodal Understanding**|Shubham Patle et.al.|[2601.19898](http://arxiv.org/abs/2601.19898)|null|
-|**2026-01-27**|**Enabling SSI-Compliant Use of EUDI Wallet Credentials through Trusted Execution Environment and Zero-Knowledge Proof**|Nacereddine Sitouah et.al.|[2601.19893](http://arxiv.org/abs/2601.19893)|null|
-|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
-|**2026-01-27**|**Mobility-as-a-service (MaaS) system as a multi-leader-multi-follower game: A single-level variational inequality (VI) formulation**|Rui Yao et.al.|[2601.19880](http://arxiv.org/abs/2601.19880)|null|
-|**2026-01-27**|**Generative Latent Alignment for Interpretable Radar Based Occupancy Detection in Ambient Assisted Living**|Huy Trinh et.al.|[2601.19853](http://arxiv.org/abs/2601.19853)|null|
-|**2026-01-27**|**Hyperdisorder in tumor growth**|Arturo Tozzi et.al.|[2601.19852](http://arxiv.org/abs/2601.19852)|null|
-|**2026-01-27**|**EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**|Binzhu Xie et.al.|[2601.19850](http://arxiv.org/abs/2601.19850)|null|
-|**2026-01-27**|**Dynamical Evidence for a Billion Solar Mass Black Hole in Galaxy NGC 4061 from ALMA $^{12}$ CO(2-1) Kinematics**|Dieu D. Nguyen et.al.|[2601.19842](http://arxiv.org/abs/2601.19842)|null|
-|**2026-01-27**|**HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs**|Jeanne Malécot et.al.|[2601.19839](http://arxiv.org/abs/2601.19839)|null|
-|**2026-01-27**|**Self-Sovereign Identity and eIDAS 2.0: An Analysis of Control, Privacy, and Legal Implications**|Nacereddine Sitouah et.al.|[2601.19837](http://arxiv.org/abs/2601.19837)|null|
 
-<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
