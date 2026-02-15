@@ -1,4 +1,4 @@
-## Updated on 2026.02.13
+## Updated on 2026.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Capability-Oriented Training Induced Alignment Risk**|Yujun Zhou et.al.|[2602.12124](http://arxiv.org/abs/2602.12124)|null|
+|**2026-02-12**|**Enhanced Forest Inventories for Habitat Mapping: A Case Study in the Sierra Nevada Mountains of California**|Maxime Turgeon et.al.|[2602.12072](http://arxiv.org/abs/2602.12072)|null|
+|**2026-02-12**|**An Empirical Study of the Imbalance Issue in Software Vulnerability Detection**|Yuejun Guo et.al.|[2602.12038](http://arxiv.org/abs/2602.12038)|null|
+|**2026-02-12**|**Automatic Simplification of Common Vulnerabilities and Exposures Descriptions**|Varpu Vehomäki et.al.|[2602.11982](http://arxiv.org/abs/2602.11982)|null|
+|**2026-02-12**|**Temporally Unified Adversarial Perturbations for Time Series Forecasting**|Ruixian Su et.al.|[2602.11940](http://arxiv.org/abs/2602.11940)|null|
+|**2026-02-12**|**Cross-Modal Robustness Transfer (CMRT): Training Robust Speech Translation Models Using Adversarial Text**|Abderrahmane Issam et.al.|[2602.11933](http://arxiv.org/abs/2602.11933)|null|
+|**2026-02-12**|**Solving the Post-Quantum Control Plane Bottleneck: Energy-Aware Cryptographic Scheduling in Open RAN**|Neha Gupta et.al.|[2602.11820](http://arxiv.org/abs/2602.11820)|null|
+|**2026-02-12**|**Real-World Asset Integration in Next-Generation Communication Networks: Fundamental, Framework, and Case Study**|Tingxuan Su et.al.|[2602.11798](http://arxiv.org/abs/2602.11798)|null|
+|**2026-02-12**|**Brain Tumor Classifiers Under Attack: Robustness of ResNet Variants Against Transferable FGSM and PGD Attacks**|Ryan Deem et.al.|[2602.11646](http://arxiv.org/abs/2602.11646)|null|
+|**2026-02-12**|**TIP: Resisting Gradient Inversion via Targeted Interpretable Perturbation in Federated Learning**|Jianhua Wang et.al.|[2602.11633](http://arxiv.org/abs/2602.11633)|null|
 |**2026-02-11**|**Vulnerabilities in Partial TEE-Shielded LLM Inference with Precomputed Noise**|Abhishek Saini et.al.|[2602.11088](http://arxiv.org/abs/2602.11088)|null|
 |**2026-02-11**|**Stabilizing chaotic dynamical system reproduction in reservoir computing**|Satoshi Oishi et.al.|[2602.11069](http://arxiv.org/abs/2602.11069)|null|
 |**2026-02-11**|**IU-GUARD: Privacy-Preserving Spectrum Coordination for Incumbent Users under Dynamic Spectrum Sharing**|Shaoyu Li et.al.|[2602.11023](http://arxiv.org/abs/2602.11023)|null|
@@ -34,12 +44,22 @@
 |**2026-02-09**|**From Assistant to Double Agent: Formalizing and Benchmarking Attacks on OpenClaw for Personalized Local AI Agent**|Yuhang Wang et.al.|[2602.08412](http://arxiv.org/abs/2602.08412)|null|
 |**2026-02-09**|**On Protecting Agentic Systems' Intellectual Property via Watermarking**|Liwen Wang et.al.|[2602.08401](http://arxiv.org/abs/2602.08401)|null|
 
-<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260215>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
+|**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
+|**2026-02-12**|**Agentic Test-Time Scaling for WebAgents**|Nicholas Lee et.al.|[2602.12276](http://arxiv.org/abs/2602.12276)|null|
+|**2026-02-12**|**The Wandering Supermassive Black Hole Powering the off-nuclear TDE AT2024tvd**|M. Guolo et.al.|[2602.12272](http://arxiv.org/abs/2602.12272)|null|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
+|**2026-02-12**|**CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use**|Zhen Zhang et.al.|[2602.12268](http://arxiv.org/abs/2602.12268)|null|
+|**2026-02-12**|**Think like a Scientist: Physics-guided LLM Agent for Equation Discovery**|Jianke Yang et.al.|[2602.12259](http://arxiv.org/abs/2602.12259)|null|
+|**2026-02-12**|**ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction**|Nick Ferguson et.al.|[2602.12247](http://arxiv.org/abs/2602.12247)|null|
+|**2026-02-12**|**MagneX: A High-Performance, GPU-Enabled, Data-Driven Micromagnetics Solver for Spintronics**|Andy Nonaka et.al.|[2602.12242](http://arxiv.org/abs/2602.12242)|null|
+|**2026-02-12**|**Status of the $S_8$ Tension: A 2026 Review of Probe Discrepancies**|Ioannis Pantos et.al.|[2602.12238](http://arxiv.org/abs/2602.12238)|null|
 |**2026-02-11**|**Utilitarian Distortion Under Probabilistic Voting**|Hamidreza Alipour et.al.|[2602.11152](http://arxiv.org/abs/2602.11152)|null|
 |**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
 |**2026-02-11**|**TabICLv2: A better, faster, scalable, and open tabular foundation model**|Jingang Qu et.al.|[2602.11139](http://arxiv.org/abs/2602.11139)|null|
@@ -61,7 +81,7 @@
 |**2026-02-09**|**InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery**|Shiyang Feng et.al.|[2602.08990](http://arxiv.org/abs/2602.08990)|null|
 |**2026-02-09**|**Forward-mode automatic differentiation for the tensor renormalization group and its relation to the impurity method**|Yuto Sugimoto et.al.|[2602.08987](http://arxiv.org/abs/2602.08987)|null|
 
-<p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
