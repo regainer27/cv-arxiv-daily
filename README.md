@@ -1,4 +1,4 @@
-## Updated on 2026.02.15
+## Updated on 2026.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Selection of CMIP6 Models for Regional Precipitation Projection and Climate Change Assessment in the Jhelum and Chenab River Basins**|Saad Ahmed Jamal et.al.|[2602.13181](http://arxiv.org/abs/2602.13181)|null|
+|**2026-02-13**|**Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation**|Jiankun Zhang et.al.|[2602.13179](http://arxiv.org/abs/2602.13179)|null|
+|**2026-02-13**|**Consistency of Large Reasoning Models Under Multi-Turn Attacks**|Yubo Li et.al.|[2602.13093](http://arxiv.org/abs/2602.13093)|null|
+|**2026-02-13**|**Backdoor Attacks on Contrastive Continual Learning for IoT Systems**|Alfous Tim et.al.|[2602.13062](http://arxiv.org/abs/2602.13062)|null|
+|**2026-02-13**|**GNSS Jamming Detection with Automatic Gain Control (AGC) and Carrier-to-Noise Ratio Density (CNO) Observables from a COTS receiver**|Syed Ali Kazim et.al.|[2602.12688](http://arxiv.org/abs/2602.12688)|null|
+|**2026-02-13**|**Trust the uncertain teacher: distilling dark knowledge via calibrated uncertainty**|Jeonghyun Kim et.al.|[2602.12687](http://arxiv.org/abs/2602.12687)|null|
+|**2026-02-13**|**CF-HFC:Calibrated Federated based Hardware-aware Fuzzy Clustering for Intrusion Detection in Heterogeneous IoTs**|Saadat Izadi et.al.|[2602.12557](http://arxiv.org/abs/2602.12557)|null|
+|**2026-02-13**|**Lightweight Cluster-Based Federated Learning for Intrusion Detection in Heterogeneous IoT Networks**|Saadat Izadi et.al.|[2602.12543](http://arxiv.org/abs/2602.12543)|null|
+|**2026-02-13**|**Adaptive Meta-Aggregation Federated Learning for Intrusion Detection in Heterogeneous Internet of Things**|Saadat Izadi et.al.|[2602.12541](http://arxiv.org/abs/2602.12541)|null|
+|**2026-02-13**|**On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs**|Rosie Zhao et.al.|[2602.12506](http://arxiv.org/abs/2602.12506)|null|
 |**2026-02-12**|**Capability-Oriented Training Induced Alignment Risk**|Yujun Zhou et.al.|[2602.12124](http://arxiv.org/abs/2602.12124)|null|
 |**2026-02-12**|**Enhanced Forest Inventories for Habitat Mapping: A Case Study in the Sierra Nevada Mountains of California**|Maxime Turgeon et.al.|[2602.12072](http://arxiv.org/abs/2602.12072)|null|
 |**2026-02-12**|**An Empirical Study of the Imbalance Issue in Software Vulnerability Detection**|Yuejun Guo et.al.|[2602.12038](http://arxiv.org/abs/2602.12038)|null|
@@ -44,12 +54,22 @@
 |**2026-02-09**|**From Assistant to Double Agent: Formalizing and Benchmarking Attacks on OpenClaw for Personalized Local AI Agent**|Yuhang Wang et.al.|[2602.08412](http://arxiv.org/abs/2602.08412)|null|
 |**2026-02-09**|**On Protecting Agentic Systems' Intellectual Property via Watermarking**|Liwen Wang et.al.|[2602.08401](http://arxiv.org/abs/2602.08401)|null|
 
-<p align=right>(<a href=#updated-on-20260215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**$\texttt{GPUmonty}$ : A GPU-accelerated relativistic Monte Carlo radiative transfer code**|Pedro Naethe Motta et.al.|[2602.13198](http://arxiv.org/abs/2602.13198)|null|
+|**2026-02-13**|**CoPE-VideoLM: Codec Primitives For Efficient Video Language Models**|Sayan Deb Sarkar et.al.|[2602.13191](http://arxiv.org/abs/2602.13191)|null|
+|**2026-02-13**|**Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation**|Jiankun Zhang et.al.|[2602.13179](http://arxiv.org/abs/2602.13179)|null|
+|**2026-02-13**|**Asynchronous Verified Semantic Caching for Tiered LLM Architectures**|Asmit Kumar Singh et.al.|[2602.13165](http://arxiv.org/abs/2602.13165)|null|
+|**2026-02-13**|**In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**|Yiran Gao et.al.|[2602.13156](http://arxiv.org/abs/2602.13156)|null|
+|**2026-02-13**|**Peaceful Anarcho-Accelerationism: Decentralized Full Automation for a Society of Universal Care**|Eduardo C. Garrido-Merchán et.al.|[2602.13154](http://arxiv.org/abs/2602.13154)|null|
+|**2026-02-13**|**FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics**|Pingzhi Li et.al.|[2602.13140](http://arxiv.org/abs/2602.13140)|null|
+|**2026-02-13**|**Automating UI Optimization through Multi-Agentic Reasoning**|Zhipeng Li et.al.|[2602.13126](http://arxiv.org/abs/2602.13126)|null|
+|**2026-02-13**|**Random Forests as Statistical Procedures: Design, Variance, and Dependence**|Nathaniel S. O'Connell et.al.|[2602.13104](http://arxiv.org/abs/2602.13104)|null|
+|**2026-02-13**|**R-Diverse: Mitigating Diversity Illusion in Self-Play LLM Training**|Gengsheng Li et.al.|[2602.13103](http://arxiv.org/abs/2602.13103)|null|
 |**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
 |**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
 |**2026-02-12**|**Agentic Test-Time Scaling for WebAgents**|Nicholas Lee et.al.|[2602.12276](http://arxiv.org/abs/2602.12276)|null|
@@ -81,7 +101,7 @@
 |**2026-02-09**|**InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery**|Shiyang Feng et.al.|[2602.08990](http://arxiv.org/abs/2602.08990)|null|
 |**2026-02-09**|**Forward-mode automatic differentiation for the tensor renormalization group and its relation to the impurity method**|Yuto Sugimoto et.al.|[2602.08987](http://arxiv.org/abs/2602.08987)|null|
 
-<p align=right>(<a href=#updated-on-20260215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
