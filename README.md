@@ -1,4 +1,4 @@
-## Updated on 2026.02.19
+## Updated on 2026.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**What Breaks Embodied AI Security:LLM Vulnerabilities, CPS Flaws,or Something Else?**|Boyang Ma et.al.|[2602.17345](http://arxiv.org/abs/2602.17345)|null|
+|**2026-02-19**|**AdvSynGNN: Structure-Adaptive Graph Neural Nets via Adversarial Synthesis and Self-Corrective Propagation**|Rong Fu et.al.|[2602.17071](http://arxiv.org/abs/2602.17071)|null|
+|**2026-02-19**|**ReIn: Conversational Error Recovery with Reasoning Inception**|Takyoung Kim et.al.|[2602.17022](http://arxiv.org/abs/2602.17022)|null|
+|**2026-02-19**|**Self-referenced, drift-tolerant dipole-resolved population inversion using degeneracy-lifted dual quasinormal modes**|Jiaxin Yu et.al.|[2602.17021](http://arxiv.org/abs/2602.17021)|null|
+|**2026-02-18**|**Automating Agent Hijacking via Structural Template Injection**|Xinhao Deng et.al.|[2602.16958](http://arxiv.org/abs/2602.16958)|null|
+|**2026-02-18**|**AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks**|Tanqiu Jiang et.al.|[2602.16901](http://arxiv.org/abs/2602.16901)|null|
+|**2026-02-18**|**Construction of a classification model for dementia among Brazilian adults aged 50 and over**|F. S. Menezes et.al.|[2602.16887](http://arxiv.org/abs/2602.16887)|null|
+|**2026-02-18**|**IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages**|Priyaranjan Pattnayak et.al.|[2602.16832](http://arxiv.org/abs/2602.16832)|null|
+|**2026-02-18**|**AREG: Adversarial Resource Extraction Game for Evaluating Persuasion and Resistance in Large Language Models**|Adib Sakhawat et.al.|[2602.16639](http://arxiv.org/abs/2602.16639)|null|
+|**2026-02-18**|**Arc2Morph: Identity-Preserving Facial Morphing with Arc2Face**|Nicolò Di Domenico et.al.|[2602.16569](http://arxiv.org/abs/2602.16569)|null|
 |**2026-02-17**|**Revisiting Backdoor Threat in Federated Instruction Tuning from a Signal Aggregation Perspective**|Haodong Zhao et.al.|[2602.15671](http://arxiv.org/abs/2602.15671)|null|
 |**2026-02-17**|**Revealing and Enhancing Core Visual Regions: Harnessing Internal Attention Dynamics for Hallucination Mitigation in LVLMs**|Guangtao Lyu et.al.|[2602.15556](http://arxiv.org/abs/2602.15556)|null|
 |**2026-02-17**|**Semantic-Guided 3D Gaussian Splatting for Transient Object Removal**|Aditi Prabakaran et.al.|[2602.15516](http://arxiv.org/abs/2602.15516)|null|
@@ -43,23 +53,23 @@
 |**2026-02-12**|**Real-World Asset Integration in Next-Generation Communication Networks: Fundamental, Framework, and Case Study**|Tingxuan Su et.al.|[2602.11798](http://arxiv.org/abs/2602.11798)|null|
 |**2026-02-12**|**Brain Tumor Classifiers Under Attack: Robustness of ResNet Variants Against Transferable FGSM and PGD Attacks**|Ryan Deem et.al.|[2602.11646](http://arxiv.org/abs/2602.11646)|null|
 |**2026-02-12**|**TIP: Resisting Gradient Inversion via Targeted Interpretable Perturbation in Federated Learning**|Jianhua Wang et.al.|[2602.11633](http://arxiv.org/abs/2602.11633)|null|
-|**2026-02-11**|**Vulnerabilities in Partial TEE-Shielded LLM Inference with Precomputed Noise**|Abhishek Saini et.al.|[2602.11088](http://arxiv.org/abs/2602.11088)|null|
-|**2026-02-11**|**Stabilizing chaotic dynamical system reproduction in reservoir computing**|Satoshi Oishi et.al.|[2602.11069](http://arxiv.org/abs/2602.11069)|null|
-|**2026-02-11**|**IU-GUARD: Privacy-Preserving Spectrum Coordination for Incumbent Users under Dynamic Spectrum Sharing**|Shaoyu Li et.al.|[2602.11023](http://arxiv.org/abs/2602.11023)|null|
-|**2026-02-11**|**When Fusion Helps and When It Breaks: View-Aligned Robustness in Same-Source Financial Imaging**|Rui Ma et.al.|[2602.11020](http://arxiv.org/abs/2602.11020)|null|
-|**2026-02-11**|**Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System**|Zhenhua Zou et.al.|[2602.10915](http://arxiv.org/abs/2602.10915)|null|
-|**2026-02-11**|**Fault Tolerant Design of IGZO-based Binary Search ADCs**|Paula Carolina Lozano Duarte et.al.|[2602.10790](http://arxiv.org/abs/2602.10790)|null|
-|**2026-02-11**|**VulReaD: Knowledge-Graph-guided Software Vulnerability Reasoning and Detection**|Samal Mukhtar et.al.|[2602.10787](http://arxiv.org/abs/2602.10787)|null|
-|**2026-02-11**|**Kill it with FIRE: On Leveraging Latent Space Directions for Runtime Backdoor Mitigation in Deep Neural Networks**|Enrico Ahlers et.al.|[2602.10780](http://arxiv.org/abs/2602.10780)|null|
-|**2026-02-11**|**VideoSTF: Stress-Testing Output Repetition in Video Large Language Models**|Yuxin Cao et.al.|[2602.10639](http://arxiv.org/abs/2602.10639)|null|
-|**2026-02-11**|**A Cognitive Distribution and Behavior-Consistent Framework for Black-Box Attacks on Recommender Systems**|Hongyue Zhan et.al.|[2602.10633](http://arxiv.org/abs/2602.10633)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|null|
+|**2026-02-19**|**CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts**|Juri Opitz et.al.|[2602.17663](http://arxiv.org/abs/2602.17663)|null|
+|**2026-02-19**|**MARS: Margin-Aware Reward-Modeling with Self-Refinement**|Payel Bhattacharjee et.al.|[2602.17658](http://arxiv.org/abs/2602.17658)|null|
+|**2026-02-19**|**Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval**|Jiaqi Xi et.al.|[2602.17654](http://arxiv.org/abs/2602.17654)|null|
+|**2026-02-19**|**Differences in Typological Alignment in Language Models' Treatment of Differential Argument Marking**|Iskar Deng et.al.|[2602.17653](http://arxiv.org/abs/2602.17653)|null|
+|**2026-02-19**|**Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting**|Xiaohan Zhao et.al.|[2602.17645](http://arxiv.org/abs/2602.17645)|null|
+|**2026-02-19**|**FAMOSE: A ReAct Approach to Automated Feature Discovery**|Keith Burghardt et.al.|[2602.17641](http://arxiv.org/abs/2602.17641)|null|
+|**2026-02-19**|**IntRec: Intent-based Retrieval with Contrastive Refinement**|Pourya Shamsolmoali et.al.|[2602.17639](http://arxiv.org/abs/2602.17639)|null|
+|**2026-02-19**|**CORAL: Correspondence Alignment for Improved Virtual Try-On**|Jiyoung Kim et.al.|[2602.17636](http://arxiv.org/abs/2602.17636)|null|
+|**2026-02-19**|**The Hidden Nature of Non-Markovianity**|Jihong Cai et.al.|[2602.17631](http://arxiv.org/abs/2602.17631)|null|
 |**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|
 |**2026-02-17**|**Stabilizing Test-Time Adaptation of High-Dimensional Simulation Surrogates via D-Optimal Statistics**|Anna Zimmel et.al.|[2602.15820](http://arxiv.org/abs/2602.15820)|null|
 |**2026-02-17**|**Developing AI Agents with Simulated Data: Why, what, and how?**|Xiaoran Liu et.al.|[2602.15816](http://arxiv.org/abs/2602.15816)|null|
@@ -90,18 +100,8 @@
 |**2026-02-12**|**ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction**|Nick Ferguson et.al.|[2602.12247](http://arxiv.org/abs/2602.12247)|null|
 |**2026-02-12**|**MagneX: A High-Performance, GPU-Enabled, Data-Driven Micromagnetics Solver for Spintronics**|Andy Nonaka et.al.|[2602.12242](http://arxiv.org/abs/2602.12242)|null|
 |**2026-02-12**|**Status of the $S_8$ Tension: A 2026 Review of Probe Discrepancies**|Ioannis Pantos et.al.|[2602.12238](http://arxiv.org/abs/2602.12238)|null|
-|**2026-02-11**|**Utilitarian Distortion Under Probabilistic Voting**|Hamidreza Alipour et.al.|[2602.11152](http://arxiv.org/abs/2602.11152)|null|
-|**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
-|**2026-02-11**|**TabICLv2: A better, faster, scalable, and open tabular foundation model**|Jingang Qu et.al.|[2602.11139](http://arxiv.org/abs/2602.11139)|null|
-|**2026-02-11**|**FormalJudge: A Neuro-Symbolic Paradigm for Agentic Oversight**|Jiayi Zhou et.al.|[2602.11136](http://arxiv.org/abs/2602.11136)|null|
-|**2026-02-11**|**Min-Sum Uniform Coverage Problem by Autonomous Mobile Robots**|Animesh Maiti et.al.|[2602.11125](http://arxiv.org/abs/2602.11125)|null|
-|**2026-02-11**|**PhyCritic: Multimodal Critic Models for Physical AI**|Tianyi Xiong et.al.|[2602.11124](http://arxiv.org/abs/2602.11124)|null|
-|**2026-02-11**|**From Natural Language to Materials Discovery:The Materials Knowledge Navigation Agent**|Genmao Zhuang et.al.|[2602.11123](http://arxiv.org/abs/2602.11123)|null|
-|**2026-02-11**|**Learning to Compose for Cross-domain Agentic Workflow Generation**|Jialiang Wang et.al.|[2602.11114](http://arxiv.org/abs/2602.11114)|null|
-|**2026-02-11**|**GameDevBench: Evaluating Agentic Capabilities Through Game Development**|Wayne Chi et.al.|[2602.11103](http://arxiv.org/abs/2602.11103)|null|
-|**2026-02-11**|**Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away**|Soumya Suvra Ghosal et.al.|[2602.11096](http://arxiv.org/abs/2602.11096)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
