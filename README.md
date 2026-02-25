@@ -1,4 +1,4 @@
-## Updated on 2026.02.23
+## Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|null|
+|**2026-02-23**|**Robust Taylor-Lagrange Control for Safety-Critical Systems**|Wei Xiao et.al.|[2602.20076](http://arxiv.org/abs/2602.20076)|null|
+|**2026-02-23**|**The LLMbda Calculus: AI Agents, Conversations, and Information Flow**|Zac Garby et.al.|[2602.20064](http://arxiv.org/abs/2602.20064)|null|
+|**2026-02-23**|**Decoupling Defense Strategies for Robust Image Watermarking**|Jiahui Chen et.al.|[2602.20053](http://arxiv.org/abs/2602.20053)|null|
+|**2026-02-23**|**Dual Security for MIMO-OFDM ISAC Systems: Artificial Ghosts or Artificial Noise**|Yinchao Yang et.al.|[2602.20045](http://arxiv.org/abs/2602.20045)|null|
+|**2026-02-23**|**Agents of Chaos**|Natalie Shapira et.al.|[2602.20021](http://arxiv.org/abs/2602.20021)|null|
+|**2026-02-23**|**A Secure and Private Distributed Bayesian Federated Learning Design**|Nuocheng Yang et.al.|[2602.20003](http://arxiv.org/abs/2602.20003)|null|
+|**2026-02-23**|**Secure Communications, Sensing, and Computing Towards Next-Generation Networks**|Ruiqi Liu et.al.|[2602.19942](http://arxiv.org/abs/2602.19942)|null|
+|**2026-02-23**|**Mass Manipulation in Simulated Social Networks: Dominating vs. Diversifying Attention**|Viktoria Kainz et.al.|[2602.19939](http://arxiv.org/abs/2602.19939)|null|
+|**2026-02-23**|**Dirichlet Scale Mixture Priors for Bayesian Neural Networks**|August Arnstad et.al.|[2602.19859](http://arxiv.org/abs/2602.19859)|null|
 |**2026-02-19**|**What Breaks Embodied AI Security:LLM Vulnerabilities, CPS Flaws,or Something Else?**|Boyang Ma et.al.|[2602.17345](http://arxiv.org/abs/2602.17345)|null|
 |**2026-02-19**|**AdvSynGNN: Structure-Adaptive Graph Neural Nets via Adversarial Synthesis and Self-Corrective Propagation**|Rong Fu et.al.|[2602.17071](http://arxiv.org/abs/2602.17071)|null|
 |**2026-02-19**|**ReIn: Conversational Error Recovery with Reasoning Inception**|Takyoung Kim et.al.|[2602.17022](http://arxiv.org/abs/2602.17022)|null|
@@ -33,33 +43,23 @@
 |**2026-02-17**|**Intellicise Wireless Networks Meet Agentic AI: A Security and Privacy Perspective**|Rui Meng et.al.|[2602.15290](http://arxiv.org/abs/2602.15290)|null|
 |**2026-02-17**|**Visual Persuasion: What Influences Decisions of Vision-Language Models?**|Manuel Cherep et.al.|[2602.15278](http://arxiv.org/abs/2602.15278)|null|
 |**2026-02-16**|**A golden-ratio partition of information and the balance between prediction and surprise: a neuro-cognitive route to antifragility**|Pablo Padilla et.al.|[2602.15266](http://arxiv.org/abs/2602.15266)|null|
-|**2026-02-13**|**Selection of CMIP6 Models for Regional Precipitation Projection and Climate Change Assessment in the Jhelum and Chenab River Basins**|Saad Ahmed Jamal et.al.|[2602.13181](http://arxiv.org/abs/2602.13181)|null|
-|**2026-02-13**|**Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation**|Jiankun Zhang et.al.|[2602.13179](http://arxiv.org/abs/2602.13179)|null|
-|**2026-02-13**|**Consistency of Large Reasoning Models Under Multi-Turn Attacks**|Yubo Li et.al.|[2602.13093](http://arxiv.org/abs/2602.13093)|null|
-|**2026-02-13**|**Backdoor Attacks on Contrastive Continual Learning for IoT Systems**|Alfous Tim et.al.|[2602.13062](http://arxiv.org/abs/2602.13062)|null|
-|**2026-02-13**|**GNSS Jamming Detection with Automatic Gain Control (AGC) and Carrier-to-Noise Ratio Density (CNO) Observables from a COTS receiver**|Syed Ali Kazim et.al.|[2602.12688](http://arxiv.org/abs/2602.12688)|null|
-|**2026-02-13**|**Trust the uncertain teacher: distilling dark knowledge via calibrated uncertainty**|Jeonghyun Kim et.al.|[2602.12687](http://arxiv.org/abs/2602.12687)|null|
-|**2026-02-13**|**CF-HFC:Calibrated Federated based Hardware-aware Fuzzy Clustering for Intrusion Detection in Heterogeneous IoTs**|Saadat Izadi et.al.|[2602.12557](http://arxiv.org/abs/2602.12557)|null|
-|**2026-02-13**|**Lightweight Cluster-Based Federated Learning for Intrusion Detection in Heterogeneous IoT Networks**|Saadat Izadi et.al.|[2602.12543](http://arxiv.org/abs/2602.12543)|null|
-|**2026-02-13**|**Adaptive Meta-Aggregation Federated Learning for Intrusion Detection in Heterogeneous Internet of Things**|Saadat Izadi et.al.|[2602.12541](http://arxiv.org/abs/2602.12541)|null|
-|**2026-02-13**|**On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs**|Rosie Zhao et.al.|[2602.12506](http://arxiv.org/abs/2602.12506)|null|
-|**2026-02-12**|**Capability-Oriented Training Induced Alignment Risk**|Yujun Zhou et.al.|[2602.12124](http://arxiv.org/abs/2602.12124)|null|
-|**2026-02-12**|**Enhanced Forest Inventories for Habitat Mapping: A Case Study in the Sierra Nevada Mountains of California**|Maxime Turgeon et.al.|[2602.12072](http://arxiv.org/abs/2602.12072)|null|
-|**2026-02-12**|**An Empirical Study of the Imbalance Issue in Software Vulnerability Detection**|Yuejun Guo et.al.|[2602.12038](http://arxiv.org/abs/2602.12038)|null|
-|**2026-02-12**|**Automatic Simplification of Common Vulnerabilities and Exposures Descriptions**|Varpu Vehomäki et.al.|[2602.11982](http://arxiv.org/abs/2602.11982)|null|
-|**2026-02-12**|**Temporally Unified Adversarial Perturbations for Time Series Forecasting**|Ruixian Su et.al.|[2602.11940](http://arxiv.org/abs/2602.11940)|null|
-|**2026-02-12**|**Cross-Modal Robustness Transfer (CMRT): Training Robust Speech Translation Models Using Adversarial Text**|Abderrahmane Issam et.al.|[2602.11933](http://arxiv.org/abs/2602.11933)|null|
-|**2026-02-12**|**Solving the Post-Quantum Control Plane Bottleneck: Energy-Aware Cryptographic Scheduling in Open RAN**|Neha Gupta et.al.|[2602.11820](http://arxiv.org/abs/2602.11820)|null|
-|**2026-02-12**|**Real-World Asset Integration in Next-Generation Communication Networks: Fundamental, Framework, and Case Study**|Tingxuan Su et.al.|[2602.11798](http://arxiv.org/abs/2602.11798)|null|
-|**2026-02-12**|**Brain Tumor Classifiers Under Attack: Robustness of ResNet Variants Against Transferable FGSM and PGD Attacks**|Ryan Deem et.al.|[2602.11646](http://arxiv.org/abs/2602.11646)|null|
-|**2026-02-12**|**TIP: Resisting Gradient Inversion via Targeted Interpretable Perturbation in Federated Learning**|Jianhua Wang et.al.|[2602.11633](http://arxiv.org/abs/2602.11633)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|null|
+|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|null|
+|**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|null|
+|**2026-02-23**|**Topography-Induced Stationary Waves and the Onset of Nightside Warming on Rocky Planets around M-dwarf Stars**|Howard Chen et.al.|[2602.20155](http://arxiv.org/abs/2602.20155)|null|
+|**2026-02-23**|**Agentic AI for Scalable and Robust Optical Systems Control**|Zehao Wang et.al.|[2602.20144](http://arxiv.org/abs/2602.20144)|null|
+|**2026-02-23**|**Recurrent Structural Policy Gradient for Partially Observable Mean Field Games**|Clarisse Wibault et.al.|[2602.20141](http://arxiv.org/abs/2602.20141)|null|
+|**2026-02-23**|**PackFlow: Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment**|Akshay Subramanian et.al.|[2602.20140](http://arxiv.org/abs/2602.20140)|null|
+|**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[2602.20135](http://arxiv.org/abs/2602.20135)|null|
+|**2026-02-23**|**To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering**|Zaifu Zhan et.al.|[2602.20130](http://arxiv.org/abs/2602.20130)|null|
+|**2026-02-23**|**Align When They Want, Complement When They Need! Human-Centered Ensembles for Adaptive Human-AI Collaboration**|Hasan Amin et.al.|[2602.20104](http://arxiv.org/abs/2602.20104)|null|
 |**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|null|
 |**2026-02-19**|**CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts**|Juri Opitz et.al.|[2602.17663](http://arxiv.org/abs/2602.17663)|null|
 |**2026-02-19**|**MARS: Margin-Aware Reward-Modeling with Self-Refinement**|Payel Bhattacharjee et.al.|[2602.17658](http://arxiv.org/abs/2602.17658)|null|
@@ -80,28 +80,8 @@
 |**2026-02-17**|**WISDOM Project - XXVII. Giant molecular clouds of the lenticular galaxy NGC 1387: similarities with spiral galaxy clouds**|Fu-Heng Liang et.al.|[2602.15792](http://arxiv.org/abs/2602.15792)|null|
 |**2026-02-17**|**Stability in Distance Preservation Games on Graphs**|Argyrios Deligkas et.al.|[2602.15784](http://arxiv.org/abs/2602.15784)|null|
 |**2026-02-17**|***-PLUIE: Personalisable metric with Llm Used for Improved Evaluation**|Quentin Lemesle et.al.|[2602.15778](http://arxiv.org/abs/2602.15778)|null|
-|**2026-02-13**|**$\texttt{GPUmonty}$ : A GPU-accelerated relativistic Monte Carlo radiative transfer code**|Pedro Naethe Motta et.al.|[2602.13198](http://arxiv.org/abs/2602.13198)|null|
-|**2026-02-13**|**CoPE-VideoLM: Codec Primitives For Efficient Video Language Models**|Sayan Deb Sarkar et.al.|[2602.13191](http://arxiv.org/abs/2602.13191)|null|
-|**2026-02-13**|**Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation**|Jiankun Zhang et.al.|[2602.13179](http://arxiv.org/abs/2602.13179)|null|
-|**2026-02-13**|**Asynchronous Verified Semantic Caching for Tiered LLM Architectures**|Asmit Kumar Singh et.al.|[2602.13165](http://arxiv.org/abs/2602.13165)|null|
-|**2026-02-13**|**In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**|Yiran Gao et.al.|[2602.13156](http://arxiv.org/abs/2602.13156)|null|
-|**2026-02-13**|**Peaceful Anarcho-Accelerationism: Decentralized Full Automation for a Society of Universal Care**|Eduardo C. Garrido-Merchán et.al.|[2602.13154](http://arxiv.org/abs/2602.13154)|null|
-|**2026-02-13**|**FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics**|Pingzhi Li et.al.|[2602.13140](http://arxiv.org/abs/2602.13140)|null|
-|**2026-02-13**|**Automating UI Optimization through Multi-Agentic Reasoning**|Zhipeng Li et.al.|[2602.13126](http://arxiv.org/abs/2602.13126)|null|
-|**2026-02-13**|**Random Forests as Statistical Procedures: Design, Variance, and Dependence**|Nathaniel S. O'Connell et.al.|[2602.13104](http://arxiv.org/abs/2602.13104)|null|
-|**2026-02-13**|**R-Diverse: Mitigating Diversity Illusion in Self-Play LLM Training**|Gengsheng Li et.al.|[2602.13103](http://arxiv.org/abs/2602.13103)|null|
-|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
-|**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
-|**2026-02-12**|**Agentic Test-Time Scaling for WebAgents**|Nicholas Lee et.al.|[2602.12276](http://arxiv.org/abs/2602.12276)|null|
-|**2026-02-12**|**The Wandering Supermassive Black Hole Powering the off-nuclear TDE AT2024tvd**|M. Guolo et.al.|[2602.12272](http://arxiv.org/abs/2602.12272)|null|
-|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
-|**2026-02-12**|**CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use**|Zhen Zhang et.al.|[2602.12268](http://arxiv.org/abs/2602.12268)|null|
-|**2026-02-12**|**Think like a Scientist: Physics-guided LLM Agent for Equation Discovery**|Jianke Yang et.al.|[2602.12259](http://arxiv.org/abs/2602.12259)|null|
-|**2026-02-12**|**ExtractBench: A Benchmark and Evaluation Methodology for Complex Structured Extraction**|Nick Ferguson et.al.|[2602.12247](http://arxiv.org/abs/2602.12247)|null|
-|**2026-02-12**|**MagneX: A High-Performance, GPU-Enabled, Data-Driven Micromagnetics Solver for Spintronics**|Andy Nonaka et.al.|[2602.12242](http://arxiv.org/abs/2602.12242)|null|
-|**2026-02-12**|**Status of the $S_8$ Tension: A 2026 Review of Probe Discrepancies**|Ioannis Pantos et.al.|[2602.12238](http://arxiv.org/abs/2602.12238)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
