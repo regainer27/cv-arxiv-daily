@@ -1,4 +1,4 @@
-## Updated on 2026.02.27
+## Updated on 2026.03.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**ESAA: Event Sourcing for Autonomous Agents in LLM-Based Software Engineering**|Elzo Brito dos Santos Filho et.al.|[2602.23193](http://arxiv.org/abs/2602.23193)|null|
+|**2026-02-26**|**Learning Continuous Wasserstein Barycenter Space for Generalized All-in-One Image Restoration**|Xiaole Tang et.al.|[2602.23169](http://arxiv.org/abs/2602.23169)|null|
+|**2026-02-26**|**Automated Vulnerability Detection in Source Code Using Deep Representation Learning**|C. Seas et.al.|[2602.23121](http://arxiv.org/abs/2602.23121)|null|
+|**2026-02-26**|**LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer**|Kunpeng Zhang et.al.|[2602.23065](http://arxiv.org/abs/2602.23065)|null|
+|**2026-02-26**|**Cryptographic Fragility of Standard Quantum Repeater Protocols**|Abhishek Sadhu et.al.|[2602.23048](http://arxiv.org/abs/2602.23048)|null|
+|**2026-02-26**|**Obscure but Effective: Classical Chinese Jailbreak Prompt Optimization via Bio-Inspired Search**|Xun Huang et.al.|[2602.22983](http://arxiv.org/abs/2602.22983)|null|
+|**2026-02-26**|**Mitigating Membership Inference in Intermediate Representations via Layer-wise MIA-risk-aware DP-SGD**|Jiayang Meng et.al.|[2602.22611](http://arxiv.org/abs/2602.22611)|null|
+|**2026-02-26**|**Quality-Aware Robust Multi-View Clustering for Heterogeneous Observation Noise**|Peihan Wu et.al.|[2602.22568](http://arxiv.org/abs/2602.22568)|null|
+|**2026-02-25**|**Predicting Known Vulnerabilities from Attack Descriptions Using Sentence Transformers**|Refat Othman et.al.|[2602.22433](http://arxiv.org/abs/2602.22433)|null|
 |**2026-02-25**|**Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes**|Xavier Pleimling et.al.|[2602.22197](http://arxiv.org/abs/2602.22197)|null|
 |**2026-02-25**|**When AI Writes, Whose Voice Remains? Quantifying Cultural Marker Erasure Across World English Varieties in Large Language Models**|Satyam Kumar Navneet et.al.|[2602.22145](http://arxiv.org/abs/2602.22145)|null|
 |**2026-02-25**|**Secure Semantic Communications via AI Defenses: Fundamentals, Solutions, and Future Directions**|Lan Zhang et.al.|[2602.22134](http://arxiv.org/abs/2602.22134)|null|
@@ -33,23 +42,23 @@
 |**2026-02-23**|**Secure Communications, Sensing, and Computing Towards Next-Generation Networks**|Ruiqi Liu et.al.|[2602.19942](http://arxiv.org/abs/2602.19942)|null|
 |**2026-02-23**|**Mass Manipulation in Simulated Social Networks: Dominating vs. Diversifying Attention**|Viktoria Kainz et.al.|[2602.19939](http://arxiv.org/abs/2602.19939)|null|
 |**2026-02-23**|**Dirichlet Scale Mixture Priors for Bayesian Neural Networks**|August Arnstad et.al.|[2602.19859](http://arxiv.org/abs/2602.19859)|null|
-|**2026-02-19**|**What Breaks Embodied AI Security:LLM Vulnerabilities, CPS Flaws,or Something Else?**|Boyang Ma et.al.|[2602.17345](http://arxiv.org/abs/2602.17345)|null|
-|**2026-02-19**|**AdvSynGNN: Structure-Adaptive Graph Neural Nets via Adversarial Synthesis and Self-Corrective Propagation**|Rong Fu et.al.|[2602.17071](http://arxiv.org/abs/2602.17071)|null|
-|**2026-02-19**|**ReIn: Conversational Error Recovery with Reasoning Inception**|Takyoung Kim et.al.|[2602.17022](http://arxiv.org/abs/2602.17022)|null|
-|**2026-02-19**|**Self-referenced, drift-tolerant dipole-resolved population inversion using degeneracy-lifted dual quasinormal modes**|Jiaxin Yu et.al.|[2602.17021](http://arxiv.org/abs/2602.17021)|null|
-|**2026-02-18**|**Automating Agent Hijacking via Structural Template Injection**|Xinhao Deng et.al.|[2602.16958](http://arxiv.org/abs/2602.16958)|null|
-|**2026-02-18**|**AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks**|Tanqiu Jiang et.al.|[2602.16901](http://arxiv.org/abs/2602.16901)|null|
-|**2026-02-18**|**Construction of a classification model for dementia among Brazilian adults aged 50 and over**|F. S. Menezes et.al.|[2602.16887](http://arxiv.org/abs/2602.16887)|null|
-|**2026-02-18**|**IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages**|Priyaranjan Pattnayak et.al.|[2602.16832](http://arxiv.org/abs/2602.16832)|null|
-|**2026-02-18**|**AREG: Adversarial Resource Extraction Game for Evaluating Persuasion and Resistance in Large Language Models**|Adib Sakhawat et.al.|[2602.16639](http://arxiv.org/abs/2602.16639)|null|
-|**2026-02-18**|**Arc2Morph: Identity-Preserving Facial Morphing with Arc2Face**|Nicolò Di Domenico et.al.|[2602.16569](http://arxiv.org/abs/2602.16569)|null|
 
-<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**MediX-R1: Open Ended Medical Reinforcement Learning**|Sahal Shaji Mullappilly et.al.|[2602.23363](http://arxiv.org/abs/2602.23363)|null|
+|**2026-02-26**|**VGG-T $^3$ : Offline Feed-Forward 3D Reconstruction at Scale**|Sven Elflein et.al.|[2602.23361](http://arxiv.org/abs/2602.23361)|null|
+|**2026-02-26**|**A Dataset is Worth 1 MB**|Elad Kimchi Shoshani et.al.|[2602.23358](http://arxiv.org/abs/2602.23358)|null|
+|**2026-02-26**|**SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport**|Simon Roschmann et.al.|[2602.23353](http://arxiv.org/abs/2602.23353)|null|
+|**2026-02-26**|**FlashOptim: Optimizers for Memory Efficient Training**|Jose Javier Gonzalez Ortiz et.al.|[2602.23349](http://arxiv.org/abs/2602.23349)|null|
+|**2026-02-26**|**Learning Contact Policies for SEIR Epidemics on Networks: A Mean-Field Game Approach**|Weinan Wang et.al.|[2602.23344](http://arxiv.org/abs/2602.23344)|null|
+|**2026-02-26**|**AlayaLaser: Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search**|Weijian Chen et.al.|[2602.23342](http://arxiv.org/abs/2602.23342)|null|
+|**2026-02-26**|**Differentiable Zero-One Loss via Hypersimplex Projections**|Camilo Gomez et.al.|[2602.23336](http://arxiv.org/abs/2602.23336)|null|
+|**2026-02-26**|**Toward Expert Investment Teams:A Multi-Agent LLM System with Fine-Grained Trading Tasks**|Kunihiro Miyazaki et.al.|[2602.23330](http://arxiv.org/abs/2602.23330)|null|
+|**2026-02-26**|**Coherent Virtual Absorption in Dielectric Metasurfaces**|Kaizad Rustomji et.al.|[2602.23328](http://arxiv.org/abs/2602.23328)|null|
 |**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
 |**2026-02-25**|**GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL**|Rui Yang et.al.|[2602.22190](http://arxiv.org/abs/2602.22190)|null|
 |**2026-02-25**|**Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach**|Nathalie C. Pinheiro et.al.|[2602.22188](http://arxiv.org/abs/2602.22188)|null|
@@ -70,18 +79,8 @@
 |**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[2602.20135](http://arxiv.org/abs/2602.20135)|null|
 |**2026-02-23**|**To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering**|Zaifu Zhan et.al.|[2602.20130](http://arxiv.org/abs/2602.20130)|null|
 |**2026-02-23**|**Align When They Want, Complement When They Need! Human-Centered Ensembles for Adaptive Human-AI Collaboration**|Hasan Amin et.al.|[2602.20104](http://arxiv.org/abs/2602.20104)|null|
-|**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|null|
-|**2026-02-19**|**CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts**|Juri Opitz et.al.|[2602.17663](http://arxiv.org/abs/2602.17663)|null|
-|**2026-02-19**|**MARS: Margin-Aware Reward-Modeling with Self-Refinement**|Payel Bhattacharjee et.al.|[2602.17658](http://arxiv.org/abs/2602.17658)|null|
-|**2026-02-19**|**Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval**|Jiaqi Xi et.al.|[2602.17654](http://arxiv.org/abs/2602.17654)|null|
-|**2026-02-19**|**Differences in Typological Alignment in Language Models' Treatment of Differential Argument Marking**|Iskar Deng et.al.|[2602.17653](http://arxiv.org/abs/2602.17653)|null|
-|**2026-02-19**|**Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting**|Xiaohan Zhao et.al.|[2602.17645](http://arxiv.org/abs/2602.17645)|null|
-|**2026-02-19**|**FAMOSE: A ReAct Approach to Automated Feature Discovery**|Keith Burghardt et.al.|[2602.17641](http://arxiv.org/abs/2602.17641)|null|
-|**2026-02-19**|**IntRec: Intent-based Retrieval with Contrastive Refinement**|Pourya Shamsolmoali et.al.|[2602.17639](http://arxiv.org/abs/2602.17639)|null|
-|**2026-02-19**|**CORAL: Correspondence Alignment for Improved Virtual Try-On**|Jiyoung Kim et.al.|[2602.17636](http://arxiv.org/abs/2602.17636)|null|
-|**2026-02-19**|**The Hidden Nature of Non-Markovianity**|Jihong Cai et.al.|[2602.17631](http://arxiv.org/abs/2602.17631)|null|
 
-<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
