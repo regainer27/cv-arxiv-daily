@@ -1,4 +1,4 @@
-## Updated on 2026.03.03
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals**|Achyutha Menon et.al.|[2603.03258](http://arxiv.org/abs/2603.03258)|null|
+|**2026-03-03**|**Recovery-Induced Erasure Attack on QKD Systems**|Hashir Kuniyil et.al.|[2603.03217](http://arxiv.org/abs/2603.03217)|null|
+|**2026-03-03**|**RAIN: Secure and Robust Aggregation under Shuffle Model of Differential Privacy**|Yuhang Li et.al.|[2603.03108](http://arxiv.org/abs/2603.03108)|null|
+|**2026-03-03**|**TAO-Attack: Toward Advanced Optimization-Based Jailbreak Attacks for Large Language Models**|Zhi Xu et.al.|[2603.03081](http://arxiv.org/abs/2603.03081)|null|
+|**2026-03-03**|**Generalized Bayes for Causal Inference**|Emil Javurek et.al.|[2603.03035](http://arxiv.org/abs/2603.03035)|null|
+|**2026-03-03**|**DSBA: Dynamic Stealthy Backdoor Attack with Collaborative Optimization in Self-Supervised Learning**|Jiayao Wang et.al.|[2603.02849](http://arxiv.org/abs/2603.02849)|null|
+|**2026-03-03**|**Scores Know Bobs Voice: Speaker Impersonation Attack**|Chanwoo Hwang et.al.|[2603.02781](http://arxiv.org/abs/2603.02781)|null|
+|**2026-03-03**|**APAO: Adaptive Prefix-Aware Optimization for Generative Recommendation**|Yuanqing Yu et.al.|[2603.02730](http://arxiv.org/abs/2603.02730)|null|
+|**2026-03-03**|**From Shallow to Deep: Pinning Semantic Intent via Causal GRPO**|Shuyi Zhou et.al.|[2603.02675](http://arxiv.org/abs/2603.02675)|null|
+|**2026-03-03**|**Blockchain Communication Vulnerabilities**|Andrei Lebedev et.al.|[2603.02661](http://arxiv.org/abs/2603.02661)|null|
 |**2026-02-27**|**Quantifying Robustness to Unmeasured Confounding in Time-Varying Treatment Confounder Settings: An Extension of E-value Approach**|Md. Niamul Islam Sium et.al.|[2602.24261](http://arxiv.org/abs/2602.24261)|null|
 |**2026-02-27**|**SAILOR: A Scalable and Energy-Efficient Ultra-Lightweight RISC-V for IoT Security**|Christian Ewert et.al.|[2602.24166](http://arxiv.org/abs/2602.24166)|null|
 |**2026-02-27**|**Speak Now: Safe Actor Programming with Multiparty Session Types**|Simon Fowler et.al.|[2602.24054](http://arxiv.org/abs/2602.24054)|null|
@@ -42,23 +52,23 @@
 |**2026-02-25**|**Send Less, Perceive More: Masked Quantized Point Cloud Communication for Loss-Tolerant Collaborative Perception**|Sheng Xu et.al.|[2602.21667](http://arxiv.org/abs/2602.21667)|null|
 |**2026-02-25**|**Breaking Semantic-Aware Watermarks via LLM-Guided Coherence-Preserving Semantic Injection**|Zheng Gao et.al.|[2602.21593](http://arxiv.org/abs/2602.21593)|null|
 |**2026-02-25**|**Guided Wireless Technology for Near-Field Communication**|Mohamed Akrout et.al.|[2602.21528](http://arxiv.org/abs/2602.21528)|null|
-|**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|null|
-|**2026-02-23**|**Robust Taylor-Lagrange Control for Safety-Critical Systems**|Wei Xiao et.al.|[2602.20076](http://arxiv.org/abs/2602.20076)|null|
-|**2026-02-23**|**The LLMbda Calculus: AI Agents, Conversations, and Information Flow**|Zac Garby et.al.|[2602.20064](http://arxiv.org/abs/2602.20064)|null|
-|**2026-02-23**|**Decoupling Defense Strategies for Robust Image Watermarking**|Jiahui Chen et.al.|[2602.20053](http://arxiv.org/abs/2602.20053)|null|
-|**2026-02-23**|**Dual Security for MIMO-OFDM ISAC Systems: Artificial Ghosts or Artificial Noise**|Yinchao Yang et.al.|[2602.20045](http://arxiv.org/abs/2602.20045)|null|
-|**2026-02-23**|**Agents of Chaos**|Natalie Shapira et.al.|[2602.20021](http://arxiv.org/abs/2602.20021)|null|
-|**2026-02-23**|**A Secure and Private Distributed Bayesian Federated Learning Design**|Nuocheng Yang et.al.|[2602.20003](http://arxiv.org/abs/2602.20003)|null|
-|**2026-02-23**|**Secure Communications, Sensing, and Computing Towards Next-Generation Networks**|Ruiqi Liu et.al.|[2602.19942](http://arxiv.org/abs/2602.19942)|null|
-|**2026-02-23**|**Mass Manipulation in Simulated Social Networks: Dominating vs. Diversifying Attention**|Viktoria Kainz et.al.|[2602.19939](http://arxiv.org/abs/2602.19939)|null|
-|**2026-02-23**|**Dirichlet Scale Mixture Priors for Bayesian Neural Networks**|August Arnstad et.al.|[2602.19859](http://arxiv.org/abs/2602.19859)|null|
 
-<p align=right>(<a href=#updated-on-20260303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
+|**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
+|**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280](http://arxiv.org/abs/2603.03280)|null|
+|**2026-03-03**|**Virtual-Memory Assisted Buffer Management In Tiered Memory**|Yeasir Rayhan et.al.|[2603.03271](http://arxiv.org/abs/2603.03271)|null|
+|**2026-03-03**|**LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory**|Junyi Zhang et.al.|[2603.03269](http://arxiv.org/abs/2603.03269)|null|
+|**2026-03-03**|**Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals**|Achyutha Menon et.al.|[2603.03258](http://arxiv.org/abs/2603.03258)|null|
+|**2026-03-03**|**Density-Guided Response Optimization: Community-Grounded Alignment via Implicit Acceptance Signals**|Patrick Gerard et.al.|[2603.03242](http://arxiv.org/abs/2603.03242)|null|
+|**2026-03-03**|**Conversational Learning Diagnosis via Reasoning Multi-Turn Interactive Learning**|Fangzhou Yao et.al.|[2603.03236](http://arxiv.org/abs/2603.03236)|null|
+|**2026-03-03**|**Guiding Sparse Neural Networks with Neurobiological Principles to Elicit Biologically Plausible Representations**|Patrick Inoue et.al.|[2603.03234](http://arxiv.org/abs/2603.03234)|null|
+|**2026-03-03**|**AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework**|Zihang Zeng et.al.|[2603.03233](http://arxiv.org/abs/2603.03233)|null|
 |**2026-02-27**|**Mode Seeking meets Mean Seeking for Fast Long Video Generation**|Shengqu Cai et.al.|[2602.24289](http://arxiv.org/abs/2602.24289)|null|
 |**2026-02-27**|**DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science**|Fan Shu et.al.|[2602.24288](http://arxiv.org/abs/2602.24288)|null|
 |**2026-02-27**|**Do LLMs Benefit From Their Own Words?**|Jenny Y. Huang et.al.|[2602.24287](http://arxiv.org/abs/2602.24287)|null|
@@ -89,18 +99,8 @@
 |**2026-02-25**|**CASR: A Robust Cyclic Framework for Arbitrary Large-Scale Super-Resolution with Distribution Alignment and Self-Similarity Awareness**|Wenhao Guo et.al.|[2602.22159](http://arxiv.org/abs/2602.22159)|null|
 |**2026-02-25**|**Dynamic Personality Adaptation in Large Language Models via State Machines**|Leon Pielage et.al.|[2602.22157](http://arxiv.org/abs/2602.22157)|null|
 |**2026-02-25**|**Position-Based Flocking for Persistent Alignment without Velocity Sensing**|Hossein B. Jond et.al.|[2602.22154](http://arxiv.org/abs/2602.22154)|null|
-|**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|null|
-|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|null|
-|**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|null|
-|**2026-02-23**|**Topography-Induced Stationary Waves and the Onset of Nightside Warming on Rocky Planets around M-dwarf Stars**|Howard Chen et.al.|[2602.20155](http://arxiv.org/abs/2602.20155)|null|
-|**2026-02-23**|**Agentic AI for Scalable and Robust Optical Systems Control**|Zehao Wang et.al.|[2602.20144](http://arxiv.org/abs/2602.20144)|null|
-|**2026-02-23**|**Recurrent Structural Policy Gradient for Partially Observable Mean Field Games**|Clarisse Wibault et.al.|[2602.20141](http://arxiv.org/abs/2602.20141)|null|
-|**2026-02-23**|**PackFlow: Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment**|Akshay Subramanian et.al.|[2602.20140](http://arxiv.org/abs/2602.20140)|null|
-|**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[2602.20135](http://arxiv.org/abs/2602.20135)|null|
-|**2026-02-23**|**To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering**|Zaifu Zhan et.al.|[2602.20130](http://arxiv.org/abs/2602.20130)|null|
-|**2026-02-23**|**Align When They Want, Complement When They Need! Human-Centered Ensembles for Adaptive Human-AI Collaboration**|Hasan Amin et.al.|[2602.20104](http://arxiv.org/abs/2602.20104)|null|
 
-<p align=right>(<a href=#updated-on-20260303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
