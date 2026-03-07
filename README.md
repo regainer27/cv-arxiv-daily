@@ -1,4 +1,4 @@
-## Updated on 2026.03.05
+## Updated on 2026.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection**|Junchuan Zhao et.al.|[2603.05373](http://arxiv.org/abs/2603.05373)|null|
+|**2026-03-05**|**Latent-Mark: An Audio Watermark Robust to Neural Resynthesis**|Yen-Shan Chen et.al.|[2603.05310](http://arxiv.org/abs/2603.05310)|null|
+|**2026-03-05**|**Towards a data-scale independent regulariser for robust sparse identification of non-linear dynamics**|Jay Raut et.al.|[2603.05201](http://arxiv.org/abs/2603.05201)|null|
+|**2026-03-05**|**Cyber Threat Intelligence for Artificial Intelligence Systems**|Natalia Krawczyk et.al.|[2603.05068](http://arxiv.org/abs/2603.05068)|null|
+|**2026-03-05**|**Label Hijacking in Track Consensus-Based Distributed Multi-Target Tracking**|Helena Calatrava et.al.|[2603.05023](http://arxiv.org/abs/2603.05023)|null|
+|**2026-03-05**|**ThaiSafetyBench: Assessing Language Model Safety in Thai Cultural Contexts**|Trapoom Ukarapol et.al.|[2603.04992](http://arxiv.org/abs/2603.04992)|null|
+|**2026-03-05**|**TimeWarp: Evaluating Web Agents by Revisiting the Past**|Md Farhan Ishmam et.al.|[2603.04949](http://arxiv.org/abs/2603.04949)|null|
+|**2026-03-05**|**EVMbench: Evaluating AI Agents on Smart Contract Security**|Justin Wang et.al.|[2603.04915](http://arxiv.org/abs/2603.04915)|null|
+|**2026-03-05**|**Beyond the Patch: Exploring Vulnerabilities of Visuomotor Policies via Viewpoint-Consistent 3D Adversarial Object**|Chanmi Lee et.al.|[2603.04913](http://arxiv.org/abs/2603.04913)|null|
+|**2026-03-05**|**Differential Privacy in Two-Layer Networks: How DP-SGD Harms Fairness and Robustness**|Ruichen Xu et.al.|[2603.04881](http://arxiv.org/abs/2603.04881)|null|
 |**2026-03-03**|**Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals**|Achyutha Menon et.al.|[2603.03258](http://arxiv.org/abs/2603.03258)|null|
 |**2026-03-03**|**Recovery-Induced Erasure Attack on QKD Systems**|Hashir Kuniyil et.al.|[2603.03217](http://arxiv.org/abs/2603.03217)|null|
 |**2026-03-03**|**RAIN: Secure and Robust Aggregation under Shuffle Model of Differential Privacy**|Yuhang Li et.al.|[2603.03108](http://arxiv.org/abs/2603.03108)|null|
@@ -41,24 +51,23 @@
 |**2026-02-26**|**Obscure but Effective: Classical Chinese Jailbreak Prompt Optimization via Bio-Inspired Search**|Xun Huang et.al.|[2602.22983](http://arxiv.org/abs/2602.22983)|null|
 |**2026-02-26**|**Mitigating Membership Inference in Intermediate Representations via Layer-wise MIA-risk-aware DP-SGD**|Jiayang Meng et.al.|[2602.22611](http://arxiv.org/abs/2602.22611)|null|
 |**2026-02-26**|**Quality-Aware Robust Multi-View Clustering for Heterogeneous Observation Noise**|Peihan Wu et.al.|[2602.22568](http://arxiv.org/abs/2602.22568)|null|
-|**2026-02-25**|**Predicting Known Vulnerabilities from Attack Descriptions Using Sentence Transformers**|Refat Othman et.al.|[2602.22433](http://arxiv.org/abs/2602.22433)|null|
-|**2026-02-25**|**Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes**|Xavier Pleimling et.al.|[2602.22197](http://arxiv.org/abs/2602.22197)|null|
-|**2026-02-25**|**When AI Writes, Whose Voice Remains? Quantifying Cultural Marker Erasure Across World English Varieties in Large Language Models**|Satyam Kumar Navneet et.al.|[2602.22145](http://arxiv.org/abs/2602.22145)|null|
-|**2026-02-25**|**Secure Semantic Communications via AI Defenses: Fundamentals, Solutions, and Future Directions**|Lan Zhang et.al.|[2602.22134](http://arxiv.org/abs/2602.22134)|null|
-|**2026-02-25**|**A Critical Look into Threshold Homomorphic Encryption for Private Average Aggregation**|Miguel Morona-Mínguez et.al.|[2602.22037](http://arxiv.org/abs/2602.22037)|null|
-|**2026-02-25**|**Resilient Federated Chain: Transforming Blockchain Consensus into an Active Defense Layer for Federated Learning**|Mario García-Márquez et.al.|[2602.21841](http://arxiv.org/abs/2602.21841)|null|
-|**2026-02-25**|**MulCovFuzz: A Multi-Component Coverage-Guided Greybox Fuzzer for 5G Protocol Testing**|Yu Wang et.al.|[2602.21794](http://arxiv.org/abs/2602.21794)|null|
-|**2026-02-25**|**Private and Robust Contribution Evaluation in Federated Learning**|Delio Jaramillo Velez et.al.|[2602.21721](http://arxiv.org/abs/2602.21721)|null|
-|**2026-02-25**|**Send Less, Perceive More: Masked Quantized Point Cloud Communication for Loss-Tolerant Collaborative Perception**|Sheng Xu et.al.|[2602.21667](http://arxiv.org/abs/2602.21667)|null|
-|**2026-02-25**|**Breaking Semantic-Aware Watermarks via LLM-Guided Coherence-Preserving Semantic Injection**|Zheng Gao et.al.|[2602.21593](http://arxiv.org/abs/2602.21593)|null|
-|**2026-02-25**|**Guided Wireless Technology for Near-Field Communication**|Mohamed Akrout et.al.|[2602.21528](http://arxiv.org/abs/2602.21528)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[2603.05503](http://arxiv.org/abs/2603.05503)|null|
+|**2026-03-05**|**POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation**|Zeju Qiu et.al.|[2603.05500](http://arxiv.org/abs/2603.05500)|null|
+|**2026-03-05**|**Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**|Lizhi Yang et.al.|[2603.05497](http://arxiv.org/abs/2603.05497)|null|
+|**2026-03-05**|**Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime**|Andrey Boris Khesin et.al.|[2603.05496](http://arxiv.org/abs/2603.05496)|null|
+|**2026-03-05**|**cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots**|Balakumar Sundaralingam et.al.|[2603.05493](http://arxiv.org/abs/2603.05493)|null|
+|**2026-03-05**|**Observing and Controlling Features in Vision-Language-Action Models**|Hugo Buurmeijer et.al.|[2603.05487](http://arxiv.org/abs/2603.05487)|null|
+|**2026-03-05**|**Improved Decoding of Quantum Tanner Codes Using Generalized Check Nodes**|Olai Å. Mostad et.al.|[2603.05486](http://arxiv.org/abs/2603.05486)|null|
+|**2026-03-05**|**Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline**|Guo Chen et.al.|[2603.05484](http://arxiv.org/abs/2603.05484)|null|
+|**2026-03-05**|**Thermodynamic Response Functions in Singular Bayesian Models**|Sean Plummer et.al.|[2603.05480](http://arxiv.org/abs/2603.05480)|null|
+|**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
 |**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
 |**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
 |**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280](http://arxiv.org/abs/2603.03280)|null|
@@ -89,18 +98,8 @@
 |**2026-02-26**|**Differentiable Zero-One Loss via Hypersimplex Projections**|Camilo Gomez et.al.|[2602.23336](http://arxiv.org/abs/2602.23336)|null|
 |**2026-02-26**|**Toward Expert Investment Teams:A Multi-Agent LLM System with Fine-Grained Trading Tasks**|Kunihiro Miyazaki et.al.|[2602.23330](http://arxiv.org/abs/2602.23330)|null|
 |**2026-02-26**|**Coherent Virtual Absorption in Dielectric Metasurfaces**|Kaizad Rustomji et.al.|[2602.23328](http://arxiv.org/abs/2602.23328)|null|
-|**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
-|**2026-02-25**|**GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL**|Rui Yang et.al.|[2602.22190](http://arxiv.org/abs/2602.22190)|null|
-|**2026-02-25**|**Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach**|Nathalie C. Pinheiro et.al.|[2602.22188](http://arxiv.org/abs/2602.22188)|null|
-|**2026-02-25**|**LiCQA : A Lightweight Complex Question Answering System**|Sourav Saha et.al.|[2602.22182](http://arxiv.org/abs/2602.22182)|null|
-|**2026-02-25**|**Around homogeneity**|Peter J. Cameron et.al.|[2602.22181](http://arxiv.org/abs/2602.22181)|null|
-|**2026-02-25**|**DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs**|Xi Ye et.al.|[2602.22175](http://arxiv.org/abs/2602.22175)|null|
-|**2026-02-25**|**Beyond Single-Shot Fidelity: Chernoff-Based Throughput Optimization in Superconducting Qubit Readout**|Sinan Bugu et.al.|[2602.22174](http://arxiv.org/abs/2602.22174)|null|
-|**2026-02-25**|**CASR: A Robust Cyclic Framework for Arbitrary Large-Scale Super-Resolution with Distribution Alignment and Self-Similarity Awareness**|Wenhao Guo et.al.|[2602.22159](http://arxiv.org/abs/2602.22159)|null|
-|**2026-02-25**|**Dynamic Personality Adaptation in Large Language Models via State Machines**|Leon Pielage et.al.|[2602.22157](http://arxiv.org/abs/2602.22157)|null|
-|**2026-02-25**|**Position-Based Flocking for Persistent Alignment without Velocity Sensing**|Hossein B. Jond et.al.|[2602.22154](http://arxiv.org/abs/2602.22154)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
