@@ -1,4 +1,4 @@
-## Updated on 2026.03.09
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**Game-Theoretic Modeling of Stealthy Intrusion Defense against MDP-Based Attackers**|Willie Kouam et.al.|[2603.09587](http://arxiv.org/abs/2603.09587)|null|
+|**2026-03-10**|**Compartmentalization-Aware Automated Program Repair**|Jia Hu et.al.|[2603.09544](http://arxiv.org/abs/2603.09544)|null|
+|**2026-03-10**|**An Analysis of Modern Web Security Vulnerabilities Inside WebAssembly Applications**|Lorenzo Corrias et.al.|[2603.09426](http://arxiv.org/abs/2603.09426)|null|
+|**2026-03-10**|**TPIFM: A Task-Aware Model for Evaluating Perceptual Interaction Fluency in Remote AR Collaboration**|Jiarun Song et.al.|[2603.09264](http://arxiv.org/abs/2603.09264)|null|
+|**2026-03-10**|**Reasoning-Oriented Programming: Chaining Semantic Gadgets to Jailbreak Large Vision Language Models**|Quanchen Zou et.al.|[2603.09246](http://arxiv.org/abs/2603.09246)|null|
+|**2026-03-10**|**Causally Sufficient and Necessary Feature Expansion for Class-Incremental Learning**|Zhen Zhang et.al.|[2603.09145](http://arxiv.org/abs/2603.09145)|null|
+|**2026-03-10**|**Intelligent Spatial Estimation for Fire Hazards in Engineering Sites: An Enhanced YOLOv8-Powered Proximity Analysis Framework**|Ammar K. AlMhdawi et.al.|[2603.09069](http://arxiv.org/abs/2603.09069)|null|
+|**2026-03-10**|**Synergistic Directed Execution and LLM-Driven Analysis for Zero-Day AI-Generated Malware Detection**|George Edwards et.al.|[2603.09044](http://arxiv.org/abs/2603.09044)|null|
+|**2026-03-10**|**Trade-offs Between Capacity and Robustness in Neural Audio Codecs for Adversarially Robust Speech Recognition**|Jordan Prescott et.al.|[2603.09034](http://arxiv.org/abs/2603.09034)|null|
+|**2026-03-09**|**Security Considerations for Multi-agent Systems**|Tam Nguyen et.al.|[2603.09002](http://arxiv.org/abs/2603.09002)|null|
 |**2026-03-06**|**When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models**|Qitong Wang et.al.|[2603.06508](http://arxiv.org/abs/2603.06508)|null|
 |**2026-03-06**|**Altermagnets Enable Gate-Switchable Helical and Chiral Topological Transport with Spin-Valley-Momentum-Locked Dual Protection**|Xianzhang Chen et.al.|[2603.06487](http://arxiv.org/abs/2603.06487)|null|
 |**2026-03-06**|**ESAA-Security: An Event-Sourced, Verifiable Architecture for Agent-Assisted Security Audits of AI-Generated Code**|Elzo Brito dos Santos Filho et.al.|[2603.06365](http://arxiv.org/abs/2603.06365)|null|
@@ -44,12 +54,22 @@
 |**2026-03-03**|**From Shallow to Deep: Pinning Semantic Intent via Causal GRPO**|Shuyi Zhou et.al.|[2603.02675](http://arxiv.org/abs/2603.02675)|null|
 |**2026-03-03**|**Blockchain Communication Vulnerabilities**|Andrei Lebedev et.al.|[2603.02661](http://arxiv.org/abs/2603.02661)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
+|**2026-03-10**|**Understanding the Interplay between LLMs' Utilisation of Parametric and Contextual Knowledge: A keynote at ECIR 2025**|Isabelle Augenstein et.al.|[2603.09654](http://arxiv.org/abs/2603.09654)|null|
+|**2026-03-10**|**MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants**|Zuhao Zhang et.al.|[2603.09652](http://arxiv.org/abs/2603.09652)|null|
+|**2026-03-10**|**Perceptions and worldviews of Transgender individuals**|Eiji Yamamura et.al.|[2603.09648](http://arxiv.org/abs/2603.09648)|null|
+|**2026-03-10**|**MM-tau-p $^2$ : Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings**|Anupam Purwar et.al.|[2603.09643](http://arxiv.org/abs/2603.09643)|null|
+|**2026-03-10**|**Multi-DNN Inference of Sparse Models on Edge SoCs**|Jiawei Luo et.al.|[2603.09642](http://arxiv.org/abs/2603.09642)|null|
+|**2026-03-10**|**PRECEPT: Planning Resilience via Experience, Context Engineering & Probing Trajectories A Unified Framework for Test-Time Adaptation with Compositional Rule Learning and Pareto-Guided Prompt Evolution**|Arash Shahmansoori et.al.|[2603.09641](http://arxiv.org/abs/2603.09641)|null|
+|**2026-03-10**|**Physics-Driven 3D Gaussian Rendering for Zero-Shot MRI Super-Resolution**|Shuting Liu et.al.|[2603.09621](http://arxiv.org/abs/2603.09621)|null|
+|**2026-03-10**|**Context Engineering: From Prompts to Corporate Multi-Agent Architecture**|Vera V. Vishnyakova et.al.|[2603.09619](http://arxiv.org/abs/2603.09619)|null|
+|**2026-03-10**|**ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis**|KunHo Heo et.al.|[2603.09611](http://arxiv.org/abs/2603.09611)|null|
 |**2026-03-06**|**On a PDE model for Learning in Stochastic Market Entry Games**|Esther Bou Dagher et.al.|[2603.06514](http://arxiv.org/abs/2603.06514)|null|
 |**2026-03-06**|**Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill**|Sitong Liu et.al.|[2603.06513](http://arxiv.org/abs/2603.06513)|null|
 |**2026-03-06**|**Speak in Context: Multilingual ASR with Speech Context Alignment via Contrastive Learning**|Yuchen Zhang et.al.|[2603.06505](http://arxiv.org/abs/2603.06505)|null|
@@ -81,7 +101,7 @@
 |**2026-03-03**|**Guiding Sparse Neural Networks with Neurobiological Principles to Elicit Biologically Plausible Representations**|Patrick Inoue et.al.|[2603.03234](http://arxiv.org/abs/2603.03234)|null|
 |**2026-03-03**|**AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework**|Zihang Zeng et.al.|[2603.03233](http://arxiv.org/abs/2603.03233)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
