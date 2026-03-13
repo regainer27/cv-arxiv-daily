@@ -1,4 +1,4 @@
-## Updated on 2026.03.11
+## Updated on 2026.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**How Vulnerable is India's Economy to Foreign Sanctions?**|Vipin P. Veetil et.al.|[2603.12128](http://arxiv.org/abs/2603.12128)|null|
+|**2026-03-12**|**EmbTracker: Traceable Black-box Watermarking for Federated Language Models**|Haodong Zhao et.al.|[2603.12089](http://arxiv.org/abs/2603.12089)|null|
+|**2026-03-12**|**Systematic Security Analysis of the Iridium Satellite Radio Link**|Eric Jedermann et.al.|[2603.12062](http://arxiv.org/abs/2603.12062)|null|
+|**2026-03-12**|**Continual Learning with Vision-Language Models via Semantic-Geometry Preservation**|Chiyuan He et.al.|[2603.12055](http://arxiv.org/abs/2603.12055)|null|
+|**2026-03-12**|**Cascade: Composing Software-Hardware Attack Gadgets for Adversarial Threat Amplification in Compound AI Systems**|Sarbartha Banerjee et.al.|[2603.12023](http://arxiv.org/abs/2603.12023)|null|
+|**2026-03-12**|**Understanding LLM Behavior When Encountering User-Supplied Harmful Content in Harmless Tasks**|Junjie Chu et.al.|[2603.11914](http://arxiv.org/abs/2603.11914)|null|
+|**2026-03-12**|**Silent Speech Interfaces in the Era of Large Language Models: A Comprehensive Taxonomy and Systematic Review**|Kele Xu et.al.|[2603.11877](http://arxiv.org/abs/2603.11877)|null|
+|**2026-03-12**|**On the Possible Detectability of Image-in-Image Steganography**|Antoine Mallet et.al.|[2603.11876](http://arxiv.org/abs/2603.11876)|null|
+|**2026-03-12**|**You Told Me to Do It: Measuring Instructional Text-induced Private Data Leakage in LLM Agents**|Ching-Yu Kao et.al.|[2603.11862](http://arxiv.org/abs/2603.11862)|null|
+|**2026-03-12**|**Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework**|Chingkwun Lam et.al.|[2603.11768](http://arxiv.org/abs/2603.11768)|null|
 |**2026-03-10**|**Game-Theoretic Modeling of Stealthy Intrusion Defense against MDP-Based Attackers**|Willie Kouam et.al.|[2603.09587](http://arxiv.org/abs/2603.09587)|null|
 |**2026-03-10**|**Compartmentalization-Aware Automated Program Repair**|Jia Hu et.al.|[2603.09544](http://arxiv.org/abs/2603.09544)|null|
 |**2026-03-10**|**An Analysis of Modern Web Security Vulnerabilities Inside WebAssembly Applications**|Lorenzo Corrias et.al.|[2603.09426](http://arxiv.org/abs/2603.09426)|null|
@@ -43,23 +53,23 @@
 |**2026-03-05**|**EVMbench: Evaluating AI Agents on Smart Contract Security**|Justin Wang et.al.|[2603.04915](http://arxiv.org/abs/2603.04915)|null|
 |**2026-03-05**|**Beyond the Patch: Exploring Vulnerabilities of Visuomotor Policies via Viewpoint-Consistent 3D Adversarial Object**|Chanmi Lee et.al.|[2603.04913](http://arxiv.org/abs/2603.04913)|null|
 |**2026-03-05**|**Differential Privacy in Two-Layer Networks: How DP-SGD Harms Fairness and Robustness**|Ruichen Xu et.al.|[2603.04881](http://arxiv.org/abs/2603.04881)|null|
-|**2026-03-03**|**Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals**|Achyutha Menon et.al.|[2603.03258](http://arxiv.org/abs/2603.03258)|null|
-|**2026-03-03**|**Recovery-Induced Erasure Attack on QKD Systems**|Hashir Kuniyil et.al.|[2603.03217](http://arxiv.org/abs/2603.03217)|null|
-|**2026-03-03**|**RAIN: Secure and Robust Aggregation under Shuffle Model of Differential Privacy**|Yuhang Li et.al.|[2603.03108](http://arxiv.org/abs/2603.03108)|null|
-|**2026-03-03**|**TAO-Attack: Toward Advanced Optimization-Based Jailbreak Attacks for Large Language Models**|Zhi Xu et.al.|[2603.03081](http://arxiv.org/abs/2603.03081)|null|
-|**2026-03-03**|**Generalized Bayes for Causal Inference**|Emil Javurek et.al.|[2603.03035](http://arxiv.org/abs/2603.03035)|null|
-|**2026-03-03**|**DSBA: Dynamic Stealthy Backdoor Attack with Collaborative Optimization in Self-Supervised Learning**|Jiayao Wang et.al.|[2603.02849](http://arxiv.org/abs/2603.02849)|null|
-|**2026-03-03**|**Scores Know Bobs Voice: Speaker Impersonation Attack**|Chanwoo Hwang et.al.|[2603.02781](http://arxiv.org/abs/2603.02781)|null|
-|**2026-03-03**|**APAO: Adaptive Prefix-Aware Optimization for Generative Recommendation**|Yuanqing Yu et.al.|[2603.02730](http://arxiv.org/abs/2603.02730)|null|
-|**2026-03-03**|**From Shallow to Deep: Pinning Semantic Intent via Causal GRPO**|Shuyi Zhou et.al.|[2603.02675](http://arxiv.org/abs/2603.02675)|null|
-|**2026-03-03**|**Blockchain Communication Vulnerabilities**|Andrei Lebedev et.al.|[2603.02661](http://arxiv.org/abs/2603.02661)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**The Geometry of Clifford Algorithms: Bernstein-Vazirani as Classical Computation in a Rotated Basis**|Bartosz Chmura et.al.|[2603.12127](http://arxiv.org/abs/2603.12127)|null|
+|**2026-03-12**|**Taming the Adversary: Stable Minimax Deep Deterministic Policy Gradient via Fractional Objectives**|Taeho Lee et.al.|[2603.12110](http://arxiv.org/abs/2603.12110)|null|
+|**2026-03-12**|**On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents**|Deyu Zou et.al.|[2603.12109](http://arxiv.org/abs/2603.12109)|null|
+|**2026-03-12**|**To Words and Beyond: Probing Large Language Models for Sentence-Level Psycholinguistic Norms of Memorability and Reading Times**|Thomas Hikaru Clark et.al.|[2603.12105](http://arxiv.org/abs/2603.12105)|null|
+|**2026-03-12**|**Directional Manipulation of a Staggered Charge Density Wave and Kondo Resonance in UTe2**|Nileema Sharma et.al.|[2603.12097](http://arxiv.org/abs/2603.12097)|null|
+|**2026-03-12**|**A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control**|Sheng-You Huang et.al.|[2603.12096](http://arxiv.org/abs/2603.12096)|null|
+|**2026-03-12**|**Resource-Efficient Iterative LLM-Based NAS with Feedback Memory**|Xiaojie Gu et.al.|[2603.12091](http://arxiv.org/abs/2603.12091)|null|
+|**2026-03-12**|**Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs**|Hiran Sarkar et.al.|[2603.12078](http://arxiv.org/abs/2603.12078)|null|
+|**2026-03-12**|**Decentralized Cooperative Localization for Multi-Robot Systems with Asynchronous Sensor Fusion**|Nivand Khosravi et.al.|[2603.12075](http://arxiv.org/abs/2603.12075)|null|
+|**2026-03-12**|**Tunable decoupling of coexisting magnetic orders in Co $_{1/3}$TaS$_2$**|Yining Hu et.al.|[2603.12072](http://arxiv.org/abs/2603.12072)|null|
 |**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
 |**2026-03-10**|**Understanding the Interplay between LLMs' Utilisation of Parametric and Contextual Knowledge: A keynote at ECIR 2025**|Isabelle Augenstein et.al.|[2603.09654](http://arxiv.org/abs/2603.09654)|null|
 |**2026-03-10**|**MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants**|Zuhao Zhang et.al.|[2603.09652](http://arxiv.org/abs/2603.09652)|null|
@@ -90,18 +100,8 @@
 |**2026-03-05**|**Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline**|Guo Chen et.al.|[2603.05484](http://arxiv.org/abs/2603.05484)|null|
 |**2026-03-05**|**Thermodynamic Response Functions in Singular Bayesian Models**|Sean Plummer et.al.|[2603.05480](http://arxiv.org/abs/2603.05480)|null|
 |**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
-|**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
-|**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
-|**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280](http://arxiv.org/abs/2603.03280)|null|
-|**2026-03-03**|**Virtual-Memory Assisted Buffer Management In Tiered Memory**|Yeasir Rayhan et.al.|[2603.03271](http://arxiv.org/abs/2603.03271)|null|
-|**2026-03-03**|**LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory**|Junyi Zhang et.al.|[2603.03269](http://arxiv.org/abs/2603.03269)|null|
-|**2026-03-03**|**Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals**|Achyutha Menon et.al.|[2603.03258](http://arxiv.org/abs/2603.03258)|null|
-|**2026-03-03**|**Density-Guided Response Optimization: Community-Grounded Alignment via Implicit Acceptance Signals**|Patrick Gerard et.al.|[2603.03242](http://arxiv.org/abs/2603.03242)|null|
-|**2026-03-03**|**Conversational Learning Diagnosis via Reasoning Multi-Turn Interactive Learning**|Fangzhou Yao et.al.|[2603.03236](http://arxiv.org/abs/2603.03236)|null|
-|**2026-03-03**|**Guiding Sparse Neural Networks with Neurobiological Principles to Elicit Biologically Plausible Representations**|Patrick Inoue et.al.|[2603.03234](http://arxiv.org/abs/2603.03234)|null|
-|**2026-03-03**|**AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework**|Zihang Zeng et.al.|[2603.03233](http://arxiv.org/abs/2603.03233)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
