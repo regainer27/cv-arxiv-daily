@@ -1,4 +1,4 @@
-## Updated on 2026.03.13
+## Updated on 2026.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks**|Alexandre Le Mercier et.al.|[2603.12206](http://arxiv.org/abs/2603.12206)|null|
 |**2026-03-12**|**How Vulnerable is India's Economy to Foreign Sanctions?**|Vipin P. Veetil et.al.|[2603.12128](http://arxiv.org/abs/2603.12128)|null|
 |**2026-03-12**|**EmbTracker: Traceable Black-box Watermarking for Federated Language Models**|Haodong Zhao et.al.|[2603.12089](http://arxiv.org/abs/2603.12089)|null|
 |**2026-03-12**|**Systematic Security Analysis of the Iridium Satellite Radio Link**|Eric Jedermann et.al.|[2603.12062](http://arxiv.org/abs/2603.12062)|null|
@@ -43,23 +44,23 @@
 |**2026-03-06**|**End-to-End QKD Using LEO Satellite Networks**|Sumit Chaudhary et.al.|[2603.06226](http://arxiv.org/abs/2603.06226)|null|
 |**2026-03-06**|**Alkaid: Resilience to Edit Errors in Provably Secure Steganography via Distance-Constrained Encoding**|Zhihan Cao et.al.|[2603.06169](http://arxiv.org/abs/2603.06169)|null|
 |**2026-03-06**|**A Hazard-Informed Data Pipeline for Robotics Physical Safety**|Alexei Odinokov et.al.|[2603.06130](http://arxiv.org/abs/2603.06130)|null|
-|**2026-03-05**|**Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection**|Junchuan Zhao et.al.|[2603.05373](http://arxiv.org/abs/2603.05373)|null|
-|**2026-03-05**|**Latent-Mark: An Audio Watermark Robust to Neural Resynthesis**|Yen-Shan Chen et.al.|[2603.05310](http://arxiv.org/abs/2603.05310)|null|
-|**2026-03-05**|**Towards a data-scale independent regulariser for robust sparse identification of non-linear dynamics**|Jay Raut et.al.|[2603.05201](http://arxiv.org/abs/2603.05201)|null|
-|**2026-03-05**|**Cyber Threat Intelligence for Artificial Intelligence Systems**|Natalia Krawczyk et.al.|[2603.05068](http://arxiv.org/abs/2603.05068)|null|
-|**2026-03-05**|**Label Hijacking in Track Consensus-Based Distributed Multi-Target Tracking**|Helena Calatrava et.al.|[2603.05023](http://arxiv.org/abs/2603.05023)|null|
-|**2026-03-05**|**ThaiSafetyBench: Assessing Language Model Safety in Thai Cultural Contexts**|Trapoom Ukarapol et.al.|[2603.04992](http://arxiv.org/abs/2603.04992)|null|
-|**2026-03-05**|**TimeWarp: Evaluating Web Agents by Revisiting the Past**|Md Farhan Ishmam et.al.|[2603.04949](http://arxiv.org/abs/2603.04949)|null|
-|**2026-03-05**|**EVMbench: Evaluating AI Agents on Smart Contract Security**|Justin Wang et.al.|[2603.04915](http://arxiv.org/abs/2603.04915)|null|
-|**2026-03-05**|**Beyond the Patch: Exploring Vulnerabilities of Visuomotor Policies via Viewpoint-Consistent 3D Adversarial Object**|Chanmi Lee et.al.|[2603.04913](http://arxiv.org/abs/2603.04913)|null|
-|**2026-03-05**|**Differential Privacy in Two-Layer Networks: How DP-SGD Harms Fairness and Robustness**|Ruichen Xu et.al.|[2603.04881](http://arxiv.org/abs/2603.04881)|null|
 
-<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning**|Haozhan Shen et.al.|[2603.12266](http://arxiv.org/abs/2603.12266)|null|
+|**2026-03-12**|**OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams**|Yibin Yan et.al.|[2603.12265](http://arxiv.org/abs/2603.12265)|null|
+|**2026-03-12**|**Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously**|Yiran Guan et.al.|[2603.12262](http://arxiv.org/abs/2603.12262)|null|
+|**2026-03-12**|**DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning**|Yujie Wei et.al.|[2603.12257](http://arxiv.org/abs/2603.12257)|null|
+|**2026-03-12**|**EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models**|Xuanlang Dai et.al.|[2603.12252](http://arxiv.org/abs/2603.12252)|null|
+|**2026-03-12**|**DVD: Deterministic Video Depth Estimation with Generative Priors**|Hongfei Zhang et.al.|[2603.12250](http://arxiv.org/abs/2603.12250)|null|
+|**2026-03-12**|**Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation**|Xiangyu Zhao et.al.|[2603.12247](http://arxiv.org/abs/2603.12247)|null|
+|**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
+|**2026-03-12**|**HandelBot: Real-World Piano Playing via Fast Adaptation of Dexterous Robot Policies**|Amber Xie et.al.|[2603.12243](http://arxiv.org/abs/2603.12243)|null|
+|**2026-03-12**|**STAMP: Selective Task-Aware Mechanism for Text Privacy**|Fengwei Tian et.al.|[2603.12237](http://arxiv.org/abs/2603.12237)|null|
 |**2026-03-12**|**The Geometry of Clifford Algorithms: Bernstein-Vazirani as Classical Computation in a Rotated Basis**|Bartosz Chmura et.al.|[2603.12127](http://arxiv.org/abs/2603.12127)|null|
 |**2026-03-12**|**Taming the Adversary: Stable Minimax Deep Deterministic Policy Gradient via Fractional Objectives**|Taeho Lee et.al.|[2603.12110](http://arxiv.org/abs/2603.12110)|null|
 |**2026-03-12**|**On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents**|Deyu Zou et.al.|[2603.12109](http://arxiv.org/abs/2603.12109)|null|
@@ -90,18 +91,8 @@
 |**2026-03-06**|**PONTE: Personalized Orchestration for Natural Language Trustworthy Explanations**|Vittoria Vineis et.al.|[2603.06485](http://arxiv.org/abs/2603.06485)|null|
 |**2026-03-06**|**History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation**|Qitong Wang et.al.|[2603.06480](http://arxiv.org/abs/2603.06480)|null|
 |**2026-03-06**|**GreenRFM: Toward a resource-efficient radiology foundation model**|Yingtai Li et.al.|[2603.06467](http://arxiv.org/abs/2603.06467)|null|
-|**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[2603.05503](http://arxiv.org/abs/2603.05503)|null|
-|**2026-03-05**|**POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation**|Zeju Qiu et.al.|[2603.05500](http://arxiv.org/abs/2603.05500)|null|
-|**2026-03-05**|**Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**|Lizhi Yang et.al.|[2603.05497](http://arxiv.org/abs/2603.05497)|null|
-|**2026-03-05**|**Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime**|Andrey Boris Khesin et.al.|[2603.05496](http://arxiv.org/abs/2603.05496)|null|
-|**2026-03-05**|**cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots**|Balakumar Sundaralingam et.al.|[2603.05493](http://arxiv.org/abs/2603.05493)|null|
-|**2026-03-05**|**Observing and Controlling Features in Vision-Language-Action Models**|Hugo Buurmeijer et.al.|[2603.05487](http://arxiv.org/abs/2603.05487)|null|
-|**2026-03-05**|**Improved Decoding of Quantum Tanner Codes Using Generalized Check Nodes**|Olai Å. Mostad et.al.|[2603.05486](http://arxiv.org/abs/2603.05486)|null|
-|**2026-03-05**|**Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline**|Guo Chen et.al.|[2603.05484](http://arxiv.org/abs/2603.05484)|null|
-|**2026-03-05**|**Thermodynamic Response Functions in Singular Bayesian Models**|Sean Plummer et.al.|[2603.05480](http://arxiv.org/abs/2603.05480)|null|
-|**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
 
-<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
