@@ -1,4 +1,4 @@
-## Updated on 2026.03.17
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**UniSAFE: A Comprehensive Benchmark for Safety Evaluation of Unified Multimodal Models**|Segyu Lee et.al.|[2603.17476](http://arxiv.org/abs/2603.17476)|null|
+|**2026-03-18**|**Caging the Agents: A Zero Trust Security Architecture for Autonomous AI in Healthcare**|Saikat Maiti et.al.|[2603.17419](http://arxiv.org/abs/2603.17419)|null|
+|**2026-03-18**|**Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)**|Zichen Tang et.al.|[2603.17417](http://arxiv.org/abs/2603.17417)|null|
+|**2026-03-18**|**InfoDensity: Rewarding Information-Dense Traces for Efficient Reasoning**|Chengwei Wei et.al.|[2603.17310](http://arxiv.org/abs/2603.17310)|null|
+|**2026-03-18**|**SEAL-Tag: Self-Tag Evidence Aggregation with Probabilistic Circuits for PII-Safe Retrieval-Augmented Generation**|Jin Xie et.al.|[2603.17292](http://arxiv.org/abs/2603.17292)|null|
+|**2026-03-18**|**Revisiting Vulnerability Patch Identification on Data in the Wild**|Ivana Clairine Irsan et.al.|[2603.17266](http://arxiv.org/abs/2603.17266)|null|
+|**2026-03-18**|**LAAF: Logic-layer Automated Attack Framework A Systematic Red-Teaming Methodology for LPCI Vulnerabilities in Agentic Large Language Model Systems**|Hammad Atta et.al.|[2603.17239](http://arxiv.org/abs/2603.17239)|null|
+|**2026-03-17**|**Towards Unsupervised Adversarial Document Detection in Retrieval Augmented Generation Systems**|Patrick Levi et.al.|[2603.17176](http://arxiv.org/abs/2603.17176)|null|
+|**2026-03-17**|**Detecting Data Poisoning in Code Generation LLMs via Black-Box, Vulnerability-Oriented Scanning**|Shenao Yan et.al.|[2603.17174](http://arxiv.org/abs/2603.17174)|null|
+|**2026-03-17**|**Security Assessment and Mitigation Strategies for Large Language Models: A Comprehensive Defensive Framework**|Taiwo Onitiju et.al.|[2603.17123](http://arxiv.org/abs/2603.17123)|null|
 |**2026-03-14**|**Experimental Evaluation of Security Attacks on Self-Driving Car Platforms**|Viet K. Nguyen et.al.|[2603.14124](http://arxiv.org/abs/2603.14124)|null|
 |**2026-03-14**|**Towards Agentic Honeynet Configuration**|Federico Mirra et.al.|[2603.14122](http://arxiv.org/abs/2603.14122)|null|
 |**2026-03-14**|**ST-ResGAT: Explainable Spatio-Temporal Graph Neural Network for Road Condition Prediction and Priority-Driven Maintenance**|Mohsin Mahmud Topu et.al.|[2603.14107](http://arxiv.org/abs/2603.14107)|null|
@@ -43,14 +53,23 @@
 |**2026-03-10**|**Intelligent Spatial Estimation for Fire Hazards in Engineering Sites: An Enhanced YOLOv8-Powered Proximity Analysis Framework**|Ammar K. AlMhdawi et.al.|[2603.09069](http://arxiv.org/abs/2603.09069)|null|
 |**2026-03-10**|**Synergistic Directed Execution and LLM-Driven Analysis for Zero-Day AI-Generated Malware Detection**|George Edwards et.al.|[2603.09044](http://arxiv.org/abs/2603.09044)|null|
 |**2026-03-10**|**Trade-offs Between Capacity and Robustness in Neural Audio Codecs for Adversarially Robust Speech Recognition**|Jordan Prescott et.al.|[2603.09034](http://arxiv.org/abs/2603.09034)|null|
-|**2026-03-09**|**Security Considerations for Multi-agent Systems**|Tam Nguyen et.al.|[2603.09002](http://arxiv.org/abs/2603.09002)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**KineVLA: Towards Kinematics-Aware Vision-Language-Action Models with Bi-Level Action Decomposition**|Gaoge Han et.al.|[2603.17524](http://arxiv.org/abs/2603.17524)|null|
+|**2026-03-18**|**PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation**|Jianjian Yin et.al.|[2603.17520](http://arxiv.org/abs/2603.17520)|null|
+|**2026-03-18**|**UniSem: Generalizable Semantic 3D Reconstruction from Sparse Unposed Images**|Guibiao Liao et.al.|[2603.17519](http://arxiv.org/abs/2603.17519)|null|
+|**2026-03-18**|**Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality**|Mengyu Bu et.al.|[2603.17512](http://arxiv.org/abs/2603.17512)|null|
+|**2026-03-18**|**Interpreting Context-Aware Human Preferences for Multi-Objective Robot Navigation**|Tharun Sethuraman et.al.|[2603.17510](http://arxiv.org/abs/2603.17510)|null|
+|**2026-03-18**|**QuantFL: Sustainable Federated Learning for Edge IoT via Pre-Trained Model Quantisation**|Charuka Herath et.al.|[2603.17507](http://arxiv.org/abs/2603.17507)|null|
+|**2026-03-18**|**Classification of Smooth Alignable Voss Surfaces**|Arvin Rasoulzadeh et.al.|[2603.17501](http://arxiv.org/abs/2603.17501)|null|
+|**2026-03-18**|**Cyberlanguage: Native Communication for the Cyber-Physical-Social-Thinking Fusion Space**|Huansheng Ning et.al.|[2603.17498](http://arxiv.org/abs/2603.17498)|null|
+|**2026-03-18**|**DustNET: enabling machine learning and AI models of dusty plasmas**|Zhehui Wang et.al.|[2603.17493](http://arxiv.org/abs/2603.17493)|null|
+|**2026-03-18**|**Learning When to Attend: Conditional Memory Access for Long-Context LLMs**|Sakshi Choudhary et.al.|[2603.17484](http://arxiv.org/abs/2603.17484)|null|
 |**2026-03-14**|**Chance-Constrained Correlated Equilibria for Robust Noncooperative Coordination**|Jaehan Im et.al.|[2603.14141](http://arxiv.org/abs/2603.14141)|null|
 |**2026-03-14**|**Universal method of selective detection of a wide range of pollutants in liquids using conductance quantization**|O. Pospelov et.al.|[2603.14140](http://arxiv.org/abs/2603.14140)|null|
 |**2026-03-14**|**Diffusion Reinforcement Learning via Centered Reward Distillation**|Yuanzhi Zhu et.al.|[2603.14128](http://arxiv.org/abs/2603.14128)|null|
@@ -92,7 +111,7 @@
 |**2026-03-10**|**Context Engineering: From Prompts to Corporate Multi-Agent Architecture**|Vera V. Vishnyakova et.al.|[2603.09619](http://arxiv.org/abs/2603.09619)|null|
 |**2026-03-10**|**ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis**|KunHo Heo et.al.|[2603.09611](http://arxiv.org/abs/2603.09611)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
