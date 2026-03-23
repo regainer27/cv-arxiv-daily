@@ -1,4 +1,4 @@
-## Updated on 2026.03.21
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Channel Prediction-Based Physical Layer Authentication under Consecutive Spoofing Attacks**|Yijia Guo et.al.|[2603.19962](http://arxiv.org/abs/2603.19962)|null|
+|**2026-03-20**|**What If Consensus Lies? Selective-Complementary Reinforcement Learning at Test Time**|Dong Yan et.al.|[2603.19880](http://arxiv.org/abs/2603.19880)|null|
+|**2026-03-20**|**Vulnerability Analysis of eBPF-enabled Containerized Deployments of 5G Core Networks**|Yash Deshpande et.al.|[2603.19867](http://arxiv.org/abs/2603.19867)|null|
+|**2026-03-20**|**NASimJax: GPU-Accelerated Policy Learning Framework for Penetration Testing**|Raphael Simon et.al.|[2603.19864](http://arxiv.org/abs/2603.19864)|null|
+|**2026-03-20**|**Overreliance on AI in Information-seeking from Video Content**|Anders Giovanni Møller et.al.|[2603.19843](http://arxiv.org/abs/2603.19843)|null|
+|**2026-03-20**|**Kumo: A Security-Focused Serverless Cloud Simulator**|Wei Shao et.al.|[2603.19787](http://arxiv.org/abs/2603.19787)|null|
+|**2026-03-20**|**From Precise to Random: A Systematic Differential Fault Analysis of the Lightweight Block Cipher Lilliput**|Peipei Xie et.al.|[2603.19781](http://arxiv.org/abs/2603.19781)|null|
+|**2026-03-20**|**ARMOR: Adaptive Resilience Against Model Poisoning Attacks in Continual Federated Learning for Mobile Indoor Localization**|Danish Gufran et.al.|[2603.19594](http://arxiv.org/abs/2603.19594)|null|
+|**2026-03-20**|**AI Psychosis: Does Conversational AI Amplify Delusion-Related Language?**|Soorya Ram Shimgekar et.al.|[2603.19574](http://arxiv.org/abs/2603.19574)|null|
+|**2026-03-20**|**Neural Uncertainty Principle: A Unified View of Adversarial Fragility and LLM Hallucination**|Dong-Xiao Zhang et.al.|[2603.19562](http://arxiv.org/abs/2603.19562)|null|
 |**2026-03-19**|**Improving RCT-Based Treatment Effect Estimation Under Covariate Mismatch via Calibrated Alignment**|Amir Asiaee et.al.|[2603.19186](http://arxiv.org/abs/2603.19186)|null|
 |**2026-03-19**|**Box Maze: A Process-Control Architecture for Reliable LLM Reasoning**|Zou Qiang et.al.|[2603.19182](http://arxiv.org/abs/2603.19182)|null|
 |**2026-03-19**|**Implicit Patterns in LLM-Based Binary Analysis**|Qiang Li et.al.|[2603.19138](http://arxiv.org/abs/2603.19138)|null|
@@ -41,26 +51,23 @@
 |**2026-03-14**|**The Forward-In-Time-Only Assumption in SmartNIC Resource Management: A Critique of Wave and the Case for Bilateral Interaction**|Paul Borrill et.al.|[2603.13750](http://arxiv.org/abs/2603.13750)|null|
 |**2026-03-14**|**REAEDP: Entropy-Calibrated Differentially Private Data Release with Formal Guarantees and Attack-Based Evaluation**|Bo Ma et.al.|[2603.13709](http://arxiv.org/abs/2603.13709)|null|
 |**2026-03-14**|**Hierarchical Latent Space Item Response Model for Analyzing Mental Health Vulnerability of Elementary School Students in South Korea**|Soyeon Park et.al.|[2603.13677](http://arxiv.org/abs/2603.13677)|null|
-|**2026-03-13**|**Scalable Classification of Course Information Sheets Using Large Language Models: A Reusable Institutional Method for Academic Quality Assurance**|Brecht Verbeken et.al.|[2603.13562](http://arxiv.org/abs/2603.13562)|null|
-|**2026-03-13**|**Understanding the strengths and weaknesses of SSL models for audio deepfake model attribution**|Gabriel Pîrlogeanu et.al.|[2603.13488](http://arxiv.org/abs/2603.13488)|null|
-|**2026-03-12**|**CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks**|Alexandre Le Mercier et.al.|[2603.12206](http://arxiv.org/abs/2603.12206)|null|
-|**2026-03-12**|**How Vulnerable is India's Economy to Foreign Sanctions?**|Vipin P. Veetil et.al.|[2603.12128](http://arxiv.org/abs/2603.12128)|null|
-|**2026-03-12**|**EmbTracker: Traceable Black-box Watermarking for Federated Language Models**|Haodong Zhao et.al.|[2603.12089](http://arxiv.org/abs/2603.12089)|null|
-|**2026-03-12**|**Systematic Security Analysis of the Iridium Satellite Radio Link**|Eric Jedermann et.al.|[2603.12062](http://arxiv.org/abs/2603.12062)|null|
-|**2026-03-12**|**Continual Learning with Vision-Language Models via Semantic-Geometry Preservation**|Chiyuan He et.al.|[2603.12055](http://arxiv.org/abs/2603.12055)|null|
-|**2026-03-12**|**Cascade: Composing Software-Hardware Attack Gadgets for Adversarial Threat Amplification in Compound AI Systems**|Sarbartha Banerjee et.al.|[2603.12023](http://arxiv.org/abs/2603.12023)|null|
-|**2026-03-12**|**Understanding LLM Behavior When Encountering User-Supplied Harmful Content in Harmless Tasks**|Junjie Chu et.al.|[2603.11914](http://arxiv.org/abs/2603.11914)|null|
-|**2026-03-12**|**Silent Speech Interfaces in the Era of Large Language Models: A Comprehensive Taxonomy and Systematic Review**|Kele Xu et.al.|[2603.11877](http://arxiv.org/abs/2603.11877)|null|
-|**2026-03-12**|**On the Possible Detectability of Image-in-Image Steganography**|Antoine Mallet et.al.|[2603.11876](http://arxiv.org/abs/2603.11876)|null|
-|**2026-03-12**|**You Told Me to Do It: Measuring Instructional Text-induced Private Data Leakage in LLM Agents**|Ching-Yu Kao et.al.|[2603.11862](http://arxiv.org/abs/2603.11862)|null|
-|**2026-03-12**|**Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework**|Chingkwun Lam et.al.|[2603.11768](http://arxiv.org/abs/2603.11768)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**|Wenjian Zhang et.al.|[2603.20046](http://arxiv.org/abs/2603.20046)|null|
+|**2026-03-20**|**Federated Hyperdimensional Computing for Resource-Constrained Industrial IoT**|Nikita Zeulin et.al.|[2603.20037](http://arxiv.org/abs/2603.20037)|null|
+|**2026-03-20**|**Orchestrating Human-AI Software Delivery: A Retrospective Longitudinal Field Study of Three Software Modernization Programs**|Maximiliano Armesto et.al.|[2603.20028](http://arxiv.org/abs/2603.20028)|null|
+|**2026-03-20**|**Graph-Informed Adversarial Modeling: Infimal Subadditivity of Interpolative Divergences**|Panagiota Birmpa et.al.|[2603.20025](http://arxiv.org/abs/2603.20025)|null|
+|**2026-03-20**|**RouterKGQA: Specialized--General Model Routing for Constraint-Aware Knowledge Graph Question Answering**|Bo Yuan et.al.|[2603.20017](http://arxiv.org/abs/2603.20017)|null|
+|**2026-03-20**|**On the Calibration of Bayesian Success Criteria and Operating Characteristics for Clinical Trials**|Peng Yang et.al.|[2603.20015](http://arxiv.org/abs/2603.20015)|null|
+|**2026-03-20**|**NEC-Diff: Noise-Robust Event-RAW Complementary Diffusion for Seeing Motion in Extreme Darkness**|Haoyue Liu et.al.|[2603.20005](http://arxiv.org/abs/2603.20005)|null|
+|**2026-03-20**|**ReViSQL: Achieving Human-Level Text-to-SQL**|Yuxuan Zhu et.al.|[2603.20004](http://arxiv.org/abs/2603.20004)|null|
+|**2026-03-20**|**An Agentic Approach to Generating XAI-Narratives**|Yifan He et.al.|[2603.20003](http://arxiv.org/abs/2603.20003)|null|
+|**2026-03-20**|**Evaluating Test-Time Adaptation For Facial Expression Recognition Under Natural Cross-Dataset Distribution Shifts**|John Turnbull et.al.|[2603.19994](http://arxiv.org/abs/2603.19994)|null|
 |**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|null|
 |**2026-03-19**|**NavTrust: Benchmarking Trustworthiness for Embodied Navigation**|Huaide Jiang et.al.|[2603.19229](http://arxiv.org/abs/2603.19229)|null|
 |**2026-03-19**|**SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing**|Xinyao Zhang et.al.|[2603.19228](http://arxiv.org/abs/2603.19228)|null|
@@ -91,28 +98,8 @@
 |**2026-03-14**|**Revisiting the Perception-Distortion Trade-off with Spatial-Semantic Guided Super-Resolution**|Dan Wang et.al.|[2603.14112](http://arxiv.org/abs/2603.14112)|null|
 |**2026-03-14**|**ST-ResGAT: Explainable Spatio-Temporal Graph Neural Network for Road Condition Prediction and Priority-Driven Maintenance**|Mohsin Mahmud Topu et.al.|[2603.14107](http://arxiv.org/abs/2603.14107)|null|
 |**2026-03-14**|**DeepFix: Debugging and Fixing Machine Learning Workflow using Agentic AI**|Fadel Mamar Seydou et.al.|[2603.14099](http://arxiv.org/abs/2603.14099)|null|
-|**2026-03-12**|**MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning**|Haozhan Shen et.al.|[2603.12266](http://arxiv.org/abs/2603.12266)|null|
-|**2026-03-12**|**OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams**|Yibin Yan et.al.|[2603.12265](http://arxiv.org/abs/2603.12265)|null|
-|**2026-03-12**|**Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously**|Yiran Guan et.al.|[2603.12262](http://arxiv.org/abs/2603.12262)|null|
-|**2026-03-12**|**DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning**|Yujie Wei et.al.|[2603.12257](http://arxiv.org/abs/2603.12257)|null|
-|**2026-03-12**|**EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models**|Xuanlang Dai et.al.|[2603.12252](http://arxiv.org/abs/2603.12252)|null|
-|**2026-03-12**|**DVD: Deterministic Video Depth Estimation with Generative Priors**|Hongfei Zhang et.al.|[2603.12250](http://arxiv.org/abs/2603.12250)|null|
-|**2026-03-12**|**Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation**|Xiangyu Zhao et.al.|[2603.12247](http://arxiv.org/abs/2603.12247)|null|
-|**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
-|**2026-03-12**|**HandelBot: Real-World Piano Playing via Fast Adaptation of Dexterous Robot Policies**|Amber Xie et.al.|[2603.12243](http://arxiv.org/abs/2603.12243)|null|
-|**2026-03-12**|**STAMP: Selective Task-Aware Mechanism for Text Privacy**|Fengwei Tian et.al.|[2603.12237](http://arxiv.org/abs/2603.12237)|null|
-|**2026-03-12**|**The Geometry of Clifford Algorithms: Bernstein-Vazirani as Classical Computation in a Rotated Basis**|Bartosz Chmura et.al.|[2603.12127](http://arxiv.org/abs/2603.12127)|null|
-|**2026-03-12**|**Taming the Adversary: Stable Minimax Deep Deterministic Policy Gradient via Fractional Objectives**|Taeho Lee et.al.|[2603.12110](http://arxiv.org/abs/2603.12110)|null|
-|**2026-03-12**|**On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents**|Deyu Zou et.al.|[2603.12109](http://arxiv.org/abs/2603.12109)|null|
-|**2026-03-12**|**To Words and Beyond: Probing Large Language Models for Sentence-Level Psycholinguistic Norms of Memorability and Reading Times**|Thomas Hikaru Clark et.al.|[2603.12105](http://arxiv.org/abs/2603.12105)|null|
-|**2026-03-12**|**Directional Manipulation of a Staggered Charge Density Wave and Kondo Resonance in UTe2**|Nileema Sharma et.al.|[2603.12097](http://arxiv.org/abs/2603.12097)|null|
-|**2026-03-12**|**A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control**|Sheng-You Huang et.al.|[2603.12096](http://arxiv.org/abs/2603.12096)|null|
-|**2026-03-12**|**Resource-Efficient Iterative LLM-Based NAS with Feedback Memory**|Xiaojie Gu et.al.|[2603.12091](http://arxiv.org/abs/2603.12091)|null|
-|**2026-03-12**|**Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs**|Hiran Sarkar et.al.|[2603.12078](http://arxiv.org/abs/2603.12078)|null|
-|**2026-03-12**|**Decentralized Cooperative Localization for Multi-Robot Systems with Asynchronous Sensor Fusion**|Nivand Khosravi et.al.|[2603.12075](http://arxiv.org/abs/2603.12075)|null|
-|**2026-03-12**|**Tunable decoupling of coexisting magnetic orders in Co $_{1/3}$TaS$_2$**|Yining Hu et.al.|[2603.12072](http://arxiv.org/abs/2603.12072)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
