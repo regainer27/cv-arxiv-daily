@@ -1,4 +1,4 @@
-## Updated on 2026.03.25
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-29**|**VoxAnchor: Grounding Speech Authenticity in Throat Vibration via mmWave Radar**|Mingda Han et.al.|[2603.27562](http://arxiv.org/abs/2603.27562)|null|
+|**2026-03-29**|**Towards Domain-Generalized Open-Vocabulary Object Detection: A Progressive Domain-invariant Cross-modal Alignment Method**|Xiaoran Xu et.al.|[2603.27556](http://arxiv.org/abs/2603.27556)|null|
+|**2026-03-29**|**Dual-Stage LLM Framework for Scenario-Centric Semantic Interpretation in Driving Assistance**|Jean Douglas Carvalho et.al.|[2603.27536](http://arxiv.org/abs/2603.27536)|null|
+|**2026-03-29**|**A Systematic Taxonomy of Security Vulnerabilities in the OpenClaw AI Agent Framework**|Surada Suwansathit et.al.|[2603.27517](http://arxiv.org/abs/2603.27517)|null|
+|**2026-03-29**|**Poisoning the Genome: Targeted Backdoor Attacks on DNA Foundation Models**|Charalampos Koilakos et.al.|[2603.27465](http://arxiv.org/abs/2603.27465)|null|
+|**2026-03-28**|**Relational Co-Adaptation in Emotionally Supportive AI: Tensions in Authentic Emotional Interaction**|Mengqi Shi et.al.|[2603.27411](http://arxiv.org/abs/2603.27411)|null|
+|**2026-03-28**|**Unsafe by Reciprocity: How Generation-Understanding Coupling Undermines Safety in Unified Multimodal Models**|Kaishen Wang et.al.|[2603.27332](http://arxiv.org/abs/2603.27332)|null|
+|**2026-03-28**|**The Geometry of Robustness: Optimizing Loss Landscape Curvature and Feature Manifold Alignment for Robust Finetuning of Vision-Language Models**|Shivang Chopra et.al.|[2603.27139](http://arxiv.org/abs/2603.27139)|null|
+|**2026-03-28**|**Red-MIRROR: Agentic LLM-based Autonomous Penetration Testing with Reflective Verification and Knowledge-augmented Interaction**|Tran Vy Khang et.al.|[2603.27127](http://arxiv.org/abs/2603.27127)|null|
+|**2026-03-28**|**The Price of Meaning: Why Every Semantic Memory System Forgets**|Sambartha Ray Barman et.al.|[2603.27116](http://arxiv.org/abs/2603.27116)|null|
 |**2026-03-24**|**Robust Safety Monitoring of Language Models via Activation Watermarking**|Toluwani Aremu et.al.|[2603.23171](http://arxiv.org/abs/2603.23171)|null|
 |**2026-03-24**|**SMSP: A Plug-and-Play Strategy of Multi-Scale Perception for MLLMs to Perceive Visual Illusions**|Jinzhe Tu et.al.|[2603.23118](http://arxiv.org/abs/2603.23118)|null|
 |**2026-03-24**|**MedCausalX: Adaptive Causal Reasoning with Self-Reflection for Trustworthy Medical Vision-Language Models**|Jianxin Lin et.al.|[2603.23085](http://arxiv.org/abs/2603.23085)|null|
@@ -50,16 +60,23 @@
 |**2026-03-18**|**SEAL-Tag: Self-Tag Evidence Aggregation with Probabilistic Circuits for PII-Safe Retrieval-Augmented Generation**|Jin Xie et.al.|[2603.17292](http://arxiv.org/abs/2603.17292)|null|
 |**2026-03-18**|**Revisiting Vulnerability Patch Identification on Data in the Wild**|Ivana Clairine Irsan et.al.|[2603.17266](http://arxiv.org/abs/2603.17266)|null|
 |**2026-03-18**|**LAAF: Logic-layer Automated Attack Framework A Systematic Red-Teaming Methodology for LPCI Vulnerabilities in Agentic Large Language Model Systems**|Hammad Atta et.al.|[2603.17239](http://arxiv.org/abs/2603.17239)|null|
-|**2026-03-17**|**Towards Unsupervised Adversarial Document Detection in Retrieval Augmented Generation Systems**|Patrick Levi et.al.|[2603.17176](http://arxiv.org/abs/2603.17176)|null|
-|**2026-03-17**|**Detecting Data Poisoning in Code Generation LLMs via Black-Box, Vulnerability-Oriented Scanning**|Shenao Yan et.al.|[2603.17174](http://arxiv.org/abs/2603.17174)|null|
-|**2026-03-17**|**Security Assessment and Mitigation Strategies for Large Language Models: A Comprehensive Defensive Framework**|Taiwo Onitiju et.al.|[2603.17123](http://arxiv.org/abs/2603.17123)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-29**|**Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization**|Canran Xiao et.al.|[2603.27678](http://arxiv.org/abs/2603.27678)|null|
+|**2026-03-29**|**Energy Score-Guided Neural Gaussian Mixture Model for Predictive Uncertainty Quantification**|Yang Yang et.al.|[2603.27672](http://arxiv.org/abs/2603.27672)|null|
+|**2026-03-29**|**EvA: An Evidence-First Audio Understanding Paradigm for LALMs**|Xinyuan Xie et.al.|[2603.27667](http://arxiv.org/abs/2603.27667)|null|
+|**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
+|**2026-03-29**|**Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling**|Minh-Tuan Tran et.al.|[2603.27665](http://arxiv.org/abs/2603.27665)|null|
+|**2026-03-29**|**A Tale of Two Jets: Double Relativistic Outflows from Close Binary GRB Progenitors**|He Gao et.al.|[2603.27660](http://arxiv.org/abs/2603.27660)|null|
+|**2026-03-29**|**The Degree of Language Diacriticity and Its Effect on Tasks**|Adi Cohen et.al.|[2603.27653](http://arxiv.org/abs/2603.27653)|null|
+|**2026-03-29**|**V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models**|Xinying Lin et.al.|[2603.27650](http://arxiv.org/abs/2603.27650)|null|
+|**2026-03-29**|**PRBench: End-to-end Paper Reproduction in Physics Research**|Shi Qiu et.al.|[2603.27646](http://arxiv.org/abs/2603.27646)|null|
+|**2026-03-29**|**Umwelt Engineering: Designing the Cognitive Worlds of Linguistic Agents**|Rodney Jehu-Appiah et.al.|[2603.27626](http://arxiv.org/abs/2603.27626)|null|
 |**2026-03-24**|**Gimbal360: Differentiable Auto-Leveling for Canonicalized $360^\circ$ Panoramic Image Completion**|Yuqin Lu et.al.|[2603.23179](http://arxiv.org/abs/2603.23179)|null|
 |**2026-03-24**|**A Schrödinger Eigenfunction Method for Long-Horizon Stochastic Optimal Control**|Louis Claeys et.al.|[2603.23173](http://arxiv.org/abs/2603.23173)|null|
 |**2026-03-24**|**UniDial-EvalKit: A Unified Toolkit for Evaluating Multi-Faceted Conversational Abilities**|Qi Jia et.al.|[2603.23160](http://arxiv.org/abs/2603.23160)|null|
@@ -101,7 +118,7 @@
 |**2026-03-18**|**DustNET: enabling machine learning and AI models of dusty plasmas**|Zhehui Wang et.al.|[2603.17493](http://arxiv.org/abs/2603.17493)|null|
 |**2026-03-18**|**Learning When to Attend: Conditional Memory Access for Long-Context LLMs**|Sakshi Choudhary et.al.|[2603.17484](http://arxiv.org/abs/2603.17484)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
