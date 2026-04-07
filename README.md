@@ -1,4 +1,4 @@
-## Updated on 2026.04.05
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-05**|**Beamforming Feedback as a Novel Attack Surface for Wi-Fi Physical-Layer Security**|Jingzhe Zhang et.al.|[2604.04179](http://arxiv.org/abs/2604.04179)|null|
+|**2026-04-05**|**Triggering and Detecting Exploitable Library Vulnerability from the Client by Directed Greybox Fuzzing**|Yukai Zhao et.al.|[2604.04102](http://arxiv.org/abs/2604.04102)|null|
+|**2026-04-05**|**Invisible Adversaries: A Systematic Study of Session Manipulation Attacks on VPNs**|Yuxiang Yang et.al.|[2604.04099](http://arxiv.org/abs/2604.04099)|null|
+|**2026-04-05**|**LAA-X: Unified Localized Artifact Attention for Quality-Agnostic and Generalizable Face Forgery Detection**|Dat Nguyen et.al.|[2604.04086](http://arxiv.org/abs/2604.04086)|null|
+|**2026-04-05**|**ADAPT: AI-Driven Decentralized Adaptive Publishing Testbed**|Md Motaleb Hossen Manik et.al.|[2604.04077](http://arxiv.org/abs/2604.04077)|null|
+|**2026-04-05**|**CoopGuard: Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Round Attacks**|Siyuan Li et.al.|[2604.04060](http://arxiv.org/abs/2604.04060)|null|
+|**2026-04-05**|**A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning**|Tianle Chen et.al.|[2604.03995](http://arxiv.org/abs/2604.03995)|null|
+|**2026-04-05**|**Can LLMs Learn to Reason Robustly under Noisy Supervision?**|Shenzhi Yang et.al.|[2604.03993](http://arxiv.org/abs/2604.03993)|null|
+|**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
+|**2026-04-05**|**Automating Cloud Security and Forensics Through a Secure-by-Design Generative AI Framework**|Dalal Alharthi et.al.|[2604.03912](http://arxiv.org/abs/2604.03912)|null|
 |**2026-04-02**|**AdamFlow: Adam-based Wasserstein Gradient Flows for Surface Registration in Medical Imaging**|Qiang Ma et.al.|[2604.02290](http://arxiv.org/abs/2604.02290)|null|
 |**2026-04-02**|**Answering the Wrong Question: Reasoning Trace Inversion for Abstention in LLMs**|Abinitha Gourabathina et.al.|[2604.02230](http://arxiv.org/abs/2604.02230)|null|
 |**2026-04-02**|**Neuro-RIT: Neuron-Guided Instruction Tuning for Robust Retrieval-Augmented Language Model**|Jaemin Kim et.al.|[2604.02194](http://arxiv.org/abs/2604.02194)|null|
@@ -30,18 +40,23 @@
 |**2026-03-29**|**Dual-Stage LLM Framework for Scenario-Centric Semantic Interpretation in Driving Assistance**|Jean Douglas Carvalho et.al.|[2603.27536](http://arxiv.org/abs/2603.27536)|null|
 |**2026-03-29**|**A Systematic Taxonomy of Security Vulnerabilities in the OpenClaw AI Agent Framework**|Surada Suwansathit et.al.|[2603.27517](http://arxiv.org/abs/2603.27517)|null|
 |**2026-03-29**|**Poisoning the Genome: Targeted Backdoor Attacks on DNA Foundation Models**|Charalampos Koilakos et.al.|[2603.27465](http://arxiv.org/abs/2603.27465)|null|
-|**2026-03-28**|**Relational Co-Adaptation in Emotionally Supportive AI: Tensions in Authentic Emotional Interaction**|Mengqi Shi et.al.|[2603.27411](http://arxiv.org/abs/2603.27411)|null|
-|**2026-03-28**|**Unsafe by Reciprocity: How Generation-Understanding Coupling Undermines Safety in Unified Multimodal Models**|Kaishen Wang et.al.|[2603.27332](http://arxiv.org/abs/2603.27332)|null|
-|**2026-03-28**|**The Geometry of Robustness: Optimizing Loss Landscape Curvature and Feature Manifold Alignment for Robust Finetuning of Vision-Language Models**|Shivang Chopra et.al.|[2603.27139](http://arxiv.org/abs/2603.27139)|null|
-|**2026-03-28**|**Red-MIRROR: Agentic LLM-based Autonomous Penetration Testing with Reflective Verification and Knowledge-augmented Interaction**|Tran Vy Khang et.al.|[2603.27127](http://arxiv.org/abs/2603.27127)|null|
-|**2026-03-28**|**The Price of Meaning: Why Every Semantic Memory System Forgets**|Sambartha Ray Barman et.al.|[2603.27116](http://arxiv.org/abs/2603.27116)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
+|**2026-04-05**|**Comparative reversal learning reveals rigid adaptation in LLMs under non-stationary uncertainty**|Haomiaomiao Wang et.al.|[2604.04182](http://arxiv.org/abs/2604.04182)|null|
+|**2026-04-05**|**Uncertainty-Aware Foundation Models for Clinical Data**|Qian Zhou et.al.|[2604.04175](http://arxiv.org/abs/2604.04175)|null|
+|**2026-04-05**|**A Model of Understanding in Deep Learning Systems**|David Peter Wallis Freeborn et.al.|[2604.04171](http://arxiv.org/abs/2604.04171)|null|
+|**2026-04-05**|**Incomplete Multi-View Multi-Label Classification via Shared Codebook and Fused-Teacher Self-Distillation**|Xu Yan et.al.|[2604.04170](http://arxiv.org/abs/2604.04170)|null|
+|**2026-04-05**|**AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis**|Tianhua Qi et.al.|[2604.04160](http://arxiv.org/abs/2604.04160)|null|
+|**2026-04-05**|**Hierarchical Co-Embedding of Font Shapes and Impression Tags**|Yugo Kubota et.al.|[2604.04158](http://arxiv.org/abs/2604.04158)|null|
+|**2026-04-05**|**Readable Minds: Emergent Theory-of-Mind-Like Behavior in LLM Poker Agents**|Hsieh-Ting Lin et.al.|[2604.04157](http://arxiv.org/abs/2604.04157)|null|
+|**2026-04-05**|**The Geometric Alignment Tax: Tokenization vs. Continuous Geometry in Scientific Foundation Models**|Prashant C. Raju et.al.|[2604.04155](http://arxiv.org/abs/2604.04155)|null|
+|**2026-04-05**|**Many Preferences, Few Policies: Towards Scalable Language Model Personalization**|Cheol Woo Kum et.al.|[2604.04144](http://arxiv.org/abs/2604.04144)|null|
 |**2026-04-02**|**ActionParty: Multi-Subject Action Binding in Generative Video Games**|Alexander Pondaven et.al.|[2604.02330](http://arxiv.org/abs/2604.02330)|null|
 |**2026-04-02**|**Beyond Referring Expressions: Scenario Comprehension Visual Grounding**|Ruozhen He et.al.|[2604.02323](http://arxiv.org/abs/2604.02323)|null|
 |**2026-04-02**|**Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning**|Xueying Li et.al.|[2604.02318](http://arxiv.org/abs/2604.02318)|null|
@@ -73,7 +88,7 @@
 |**2026-03-29**|**PRBench: End-to-end Paper Reproduction in Physics Research**|Shi Qiu et.al.|[2603.27646](http://arxiv.org/abs/2603.27646)|null|
 |**2026-03-29**|**Umwelt Engineering: Designing the Cognitive Worlds of Linguistic Agents**|Rodney Jehu-Appiah et.al.|[2603.27626](http://arxiv.org/abs/2603.27626)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
