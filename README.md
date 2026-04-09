@@ -1,4 +1,4 @@
-## Updated on 2026.04.07
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories**|Yen-Shan Chen et.al.|[2604.07223](http://arxiv.org/abs/2604.07223)|null|
+|**2026-04-08**|**CAAP: Capture-Aware Adversarial Patch Attacks on Palmprint Recognition Models**|Renyang Liu et.al.|[2604.06987](http://arxiv.org/abs/2604.06987)|null|
+|**2026-04-08**|**PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement**|Xiaoqi Li et.al.|[2604.06975](http://arxiv.org/abs/2604.06975)|null|
+|**2026-04-08**|**VulGD: A LLM-Powered Dynamic Open-Access Vulnerability Graph Database**|Luat Do et.al.|[2604.06967](http://arxiv.org/abs/2604.06967)|null|
+|**2026-04-08**|**Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction**|Pablo Parte et.al.|[2604.06961](http://arxiv.org/abs/2604.06961)|null|
+|**2026-04-08**|**Compression as an Adversarial Amplifier Through Decision Space Reduction**|Lewis Evans et.al.|[2604.06954](http://arxiv.org/abs/2604.06954)|null|
+|**2026-04-08**|**Making MLLMs Blind: Adversarial Smuggling Attacks in MLLM Content Moderation**|Zhiheng Li et.al.|[2604.06950](http://arxiv.org/abs/2604.06950)|null|
+|**2026-04-08**|**SentinelSphere: Integrating AI-Powered Real-Time Threat Detection with Cybersecurity Awareness Training**|Nikolaos D. Tantaroudas et.al.|[2604.06900](http://arxiv.org/abs/2604.06900)|null|
+|**2026-04-08**|**MedDialBench: Benchmarking LLM Diagnostic Robustness under Parametric Adversarial Patient Behaviors**|Xiaotian Luo et.al.|[2604.06846](http://arxiv.org/abs/2604.06846)|null|
+|**2026-04-08**|**EvoTSE: Evolving Enrollment for Target Speaker Extraction**|Zikai Liu et.al.|[2604.06810](http://arxiv.org/abs/2604.06810)|null|
 |**2026-04-05**|**Beamforming Feedback as a Novel Attack Surface for Wi-Fi Physical-Layer Security**|Jingzhe Zhang et.al.|[2604.04179](http://arxiv.org/abs/2604.04179)|null|
 |**2026-04-05**|**Triggering and Detecting Exploitable Library Vulnerability from the Client by Directed Greybox Fuzzing**|Yukai Zhao et.al.|[2604.04102](http://arxiv.org/abs/2604.04102)|null|
 |**2026-04-05**|**Invisible Adversaries: A Systematic Study of Session Manipulation Attacks on VPNs**|Yuxiang Yang et.al.|[2604.04099](http://arxiv.org/abs/2604.04099)|null|
@@ -35,18 +45,23 @@
 |**2026-04-02**|**Topology-Hiding Connectivity-Assurance for QKD Inter-Networking**|Margherita Cozzolino et.al.|[2604.01876](http://arxiv.org/abs/2604.01876)|null|
 |**2026-04-02**|**SafeRoPE: Risk-specific Head-wise Embedding Rotation for Safe Generation in Rectified Flow Transformers**|Xiang Yang et.al.|[2604.01826](http://arxiv.org/abs/2604.01826)|null|
 |**2026-04-02**|**Mitigating Implicit Inconsistencies in Patch Porting**|Shengyi Pan et.al.|[2604.01680](http://arxiv.org/abs/2604.01680)|null|
-|**2026-03-29**|**VoxAnchor: Grounding Speech Authenticity in Throat Vibration via mmWave Radar**|Mingda Han et.al.|[2603.27562](http://arxiv.org/abs/2603.27562)|null|
-|**2026-03-29**|**Towards Domain-Generalized Open-Vocabulary Object Detection: A Progressive Domain-invariant Cross-modal Alignment Method**|Xiaoran Xu et.al.|[2603.27556](http://arxiv.org/abs/2603.27556)|null|
-|**2026-03-29**|**Dual-Stage LLM Framework for Scenario-Centric Semantic Interpretation in Driving Assistance**|Jean Douglas Carvalho et.al.|[2603.27536](http://arxiv.org/abs/2603.27536)|null|
-|**2026-03-29**|**A Systematic Taxonomy of Security Vulnerabilities in the OpenClaw AI Agent Framework**|Surada Suwansathit et.al.|[2603.27517](http://arxiv.org/abs/2603.27517)|null|
-|**2026-03-29**|**Poisoning the Genome: Targeted Backdoor Attacks on DNA Foundation Models**|Charalampos Koilakos et.al.|[2603.27465](http://arxiv.org/abs/2603.27465)|null|
 
-<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**Designing Safe and Accountable GenAI as a Learning Companion with Women Banned from Formal Education**|Hamayoon Behmanush et.al.|[2604.07253](http://arxiv.org/abs/2604.07253)|null|
+|**2026-04-08**|**$k$-server-bench: Automating Potential Discovery for the $k$ -Server Conjecture**|Kirill Brilliantov et.al.|[2604.07240](http://arxiv.org/abs/2604.07240)|null|
+|**2026-04-08**|**Efficient Learned Data Compression via Dual-Stream Feature Decoupling**|Huidong Ma et.al.|[2604.07239](http://arxiv.org/abs/2604.07239)|null|
+|**2026-04-08**|**How Much LLM Does a Self-Revising Agent Actually Need?**|Seongwoo Jeong et.al.|[2604.07236](http://arxiv.org/abs/2604.07236)|null|
+|**2026-04-08**|**Robust Quadruped Locomotion via Evolutionary Reinforcement Learning**|Brian McAteer et.al.|[2604.07224](http://arxiv.org/abs/2604.07224)|null|
+|**2026-04-08**|**TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories**|Yen-Shan Chen et.al.|[2604.07223](http://arxiv.org/abs/2604.07223)|null|
+|**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
+|**2026-04-08**|**Designing for Accountable Agents: a Viewpoint**|Stephen Cranefield et.al.|[2604.07204](http://arxiv.org/abs/2604.07204)|null|
+|**2026-04-08**|**BRIDGE: Multimodal-to-Text Retrieval via Reinforcement-Learned Query Alignment**|Mohamed Darwish Mounis et.al.|[2604.07201](http://arxiv.org/abs/2604.07201)|null|
+|**2026-04-08**|**Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery**|Jia Yu et.al.|[2604.07189](http://arxiv.org/abs/2604.07189)|null|
 |**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
 |**2026-04-05**|**Comparative reversal learning reveals rigid adaptation in LLMs under non-stationary uncertainty**|Haomiaomiao Wang et.al.|[2604.04182](http://arxiv.org/abs/2604.04182)|null|
 |**2026-04-05**|**Uncertainty-Aware Foundation Models for Clinical Data**|Qian Zhou et.al.|[2604.04175](http://arxiv.org/abs/2604.04175)|null|
@@ -77,18 +92,8 @@
 |**2026-04-02**|**Brief Is Better: Non-Monotonic Chain-of-Thought Budget Effects in Function-Calling Language Agents**|Xuan Qi et.al.|[2604.02155](http://arxiv.org/abs/2604.02155)|null|
 |**2026-04-02**|**Designing Transformational Games to Support Socio-ethical Reasoning about Generative AI**|Jaemarie Solyst et.al.|[2604.02154](http://arxiv.org/abs/2604.02154)|null|
 |**2026-04-02**|**MTI: A Behavior-Based Temperament Profiling System for AI Agents**|Jihoon Jeong et.al.|[2604.02145](http://arxiv.org/abs/2604.02145)|null|
-|**2026-03-29**|**Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization**|Canran Xiao et.al.|[2603.27678](http://arxiv.org/abs/2603.27678)|null|
-|**2026-03-29**|**Energy Score-Guided Neural Gaussian Mixture Model for Predictive Uncertainty Quantification**|Yang Yang et.al.|[2603.27672](http://arxiv.org/abs/2603.27672)|null|
-|**2026-03-29**|**EvA: An Evidence-First Audio Understanding Paradigm for LALMs**|Xinyuan Xie et.al.|[2603.27667](http://arxiv.org/abs/2603.27667)|null|
-|**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
-|**2026-03-29**|**Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling**|Minh-Tuan Tran et.al.|[2603.27665](http://arxiv.org/abs/2603.27665)|null|
-|**2026-03-29**|**A Tale of Two Jets: Double Relativistic Outflows from Close Binary GRB Progenitors**|He Gao et.al.|[2603.27660](http://arxiv.org/abs/2603.27660)|null|
-|**2026-03-29**|**The Degree of Language Diacriticity and Its Effect on Tasks**|Adi Cohen et.al.|[2603.27653](http://arxiv.org/abs/2603.27653)|null|
-|**2026-03-29**|**V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models**|Xinying Lin et.al.|[2603.27650](http://arxiv.org/abs/2603.27650)|null|
-|**2026-03-29**|**PRBench: End-to-end Paper Reproduction in Physics Research**|Shi Qiu et.al.|[2603.27646](http://arxiv.org/abs/2603.27646)|null|
-|**2026-03-29**|**Umwelt Engineering: Designing the Cognitive Worlds of Linguistic Agents**|Rodney Jehu-Appiah et.al.|[2603.27626](http://arxiv.org/abs/2603.27626)|null|
 
-<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
