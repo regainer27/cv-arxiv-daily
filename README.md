@@ -1,4 +1,4 @@
-## Updated on 2026.04.15
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**Feedback-Driven Execution for LLM-Based Binary Analysis**|XiangRui Zhang et.al.|[2604.15136](http://arxiv.org/abs/2604.15136)|null|
+|**2026-04-16**|**NFTDELTA: Detecting Permission Control Vulnerabilities in NFT Contracts through Multi-View Learning**|Hailu Kuang et.al.|[2604.15118](http://arxiv.org/abs/2604.15118)|null|
+|**2026-04-16**|**Emulation-based System-on-Chip Security Verification: Challenges and Opportunities**|Tanvir Rahman et.al.|[2604.15073](http://arxiv.org/abs/2604.15073)|null|
+|**2026-04-16**|**Learning Where to Embed: Noise-Aware Positional Embedding for Query Retrieval in Small-Object Detection**|Yangchen Zeng et.al.|[2604.15065](http://arxiv.org/abs/2604.15065)|null|
+|**2026-04-16**|**No More Guessing: a Verifiable Gradient Inversion Attack in Federated Learning**|Francesco Diana et.al.|[2604.15063](http://arxiv.org/abs/2604.15063)|null|
+|**2026-04-16**|**Mapping Subnational Vulnerability to Inadequate Micronutrient Intake using a Bayesian Small Area Estimation Framework**|Sahoko Ishida et.al.|[2604.14971](http://arxiv.org/abs/2604.14971)|null|
+|**2026-04-16**|**AIM: Asymmetric Information Masking for Visual Question Answering Continual Learning**|Peifeng Zhang et.al.|[2604.14779](http://arxiv.org/abs/2604.14779)|null|
+|**2026-04-16**|**Find the Differences: Differential Morphing Attack Detection vs Face Recognition**|Una M. Kelly et.al.|[2604.14734](http://arxiv.org/abs/2604.14734)|null|
+|**2026-04-16**|**M2-PALE: A Framework for Explaining Multi-Agent MCTS--Minimax Hybrids via Process Mining and LLMs**|Yiyu Qian et.al.|[2604.14687](http://arxiv.org/abs/2604.14687)|null|
+|**2026-04-16**|**EdgeDetect: Importance-Aware Gradient Compression with Homomorphic Aggregation for Federated Intrusion Detection**|Noor Islam S. Mohammad et.al.|[2604.14663](http://arxiv.org/abs/2604.14663)|null|
 |**2026-04-14**|**Challenging Vision-Language Models with Physically Deployable Multimodal Semantic Lighting Attacks**|Yingying Zhao et.al.|[2604.12833](http://arxiv.org/abs/2604.12833)|null|
 |**2026-04-14**|**Fragile Reconstruction: Adversarial Vulnerability of Reconstruction-Based Detectors for Diffusion-Generated Images**|Haoyang Jiang et.al.|[2604.12781](http://arxiv.org/abs/2604.12781)|null|
 |**2026-04-14**|**GF-Score: Certified Class-Conditional Robustness Evaluation with Fairness Guarantees**|Arya Shah et.al.|[2604.12757](http://arxiv.org/abs/2604.12757)|null|
@@ -43,23 +53,23 @@
 |**2026-04-08**|**SentinelSphere: Integrating AI-Powered Real-Time Threat Detection with Cybersecurity Awareness Training**|Nikolaos D. Tantaroudas et.al.|[2604.06900](http://arxiv.org/abs/2604.06900)|null|
 |**2026-04-08**|**MedDialBench: Benchmarking LLM Diagnostic Robustness under Parametric Adversarial Patient Behaviors**|Xiaotian Luo et.al.|[2604.06846](http://arxiv.org/abs/2604.06846)|null|
 |**2026-04-08**|**EvoTSE: Evolving Enrollment for Target Speaker Extraction**|Zikai Liu et.al.|[2604.06810](http://arxiv.org/abs/2604.06810)|null|
-|**2026-04-05**|**Beamforming Feedback as a Novel Attack Surface for Wi-Fi Physical-Layer Security**|Jingzhe Zhang et.al.|[2604.04179](http://arxiv.org/abs/2604.04179)|null|
-|**2026-04-05**|**Triggering and Detecting Exploitable Library Vulnerability from the Client by Directed Greybox Fuzzing**|Yukai Zhao et.al.|[2604.04102](http://arxiv.org/abs/2604.04102)|null|
-|**2026-04-05**|**Invisible Adversaries: A Systematic Study of Session Manipulation Attacks on VPNs**|Yuxiang Yang et.al.|[2604.04099](http://arxiv.org/abs/2604.04099)|null|
-|**2026-04-05**|**LAA-X: Unified Localized Artifact Attention for Quality-Agnostic and Generalizable Face Forgery Detection**|Dat Nguyen et.al.|[2604.04086](http://arxiv.org/abs/2604.04086)|null|
-|**2026-04-05**|**ADAPT: AI-Driven Decentralized Adaptive Publishing Testbed**|Md Motaleb Hossen Manik et.al.|[2604.04077](http://arxiv.org/abs/2604.04077)|null|
-|**2026-04-05**|**CoopGuard: Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Round Attacks**|Siyuan Li et.al.|[2604.04060](http://arxiv.org/abs/2604.04060)|null|
-|**2026-04-05**|**A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning**|Tianle Chen et.al.|[2604.03995](http://arxiv.org/abs/2604.03995)|null|
-|**2026-04-05**|**Can LLMs Learn to Reason Robustly under Noisy Supervision?**|Shenzhi Yang et.al.|[2604.03993](http://arxiv.org/abs/2604.03993)|null|
-|**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
-|**2026-04-05**|**Automating Cloud Security and Forensics Through a Secure-by-Design Generative AI Framework**|Dalal Alharthi et.al.|[2604.03912](http://arxiv.org/abs/2604.03912)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**Assessing the Potential of Masked Autoencoder Foundation Models in Predicting Downhole Metrics from Surface Drilling Data**|Aleksander Berezowski et.al.|[2604.15169](http://arxiv.org/abs/2604.15169)|null|
+|**2026-04-16**|**DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency**|Boyan Li et.al.|[2604.15163](http://arxiv.org/abs/2604.15163)|null|
+|**2026-04-16**|**Compressing Sequences in the Latent Embedding Space: $K$ -Token Merging for Large Language Models**|Zihao Xu et.al.|[2604.15153](http://arxiv.org/abs/2604.15153)|null|
+|**2026-04-16**|**QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies**|Alexey Khoroshilov et.al.|[2604.15151](http://arxiv.org/abs/2604.15151)|null|
+|**2026-04-16**|**A Semantic Geometry for Uncovering Paradigm Dynamics via Scientific Publications**|Jinchang Liu et.al.|[2604.15150](http://arxiv.org/abs/2604.15150)|null|
+|**2026-04-16**|**Energy norm error estimates of a hybrid high-order method for the linear parabolic integro-differential equations on general meshes**|Achyuta Ranjan Dutta Mohapatra et.al.|[2604.15147](http://arxiv.org/abs/2604.15147)|null|
+|**2026-04-16**|**Feedback-Driven Execution for LLM-Based Binary Analysis**|XiangRui Zhang et.al.|[2604.15136](http://arxiv.org/abs/2604.15136)|null|
+|**2026-04-16**|**Fully Atomic-Layer-Deposited Vertical Complementary FeRAM with Ultra-High 2Pr > 100 uC/cm2 and High Endurance > 1E10 cycles**|Renhao Xue et.al.|[2604.15131](http://arxiv.org/abs/2604.15131)|null|
+|**2026-04-16**|**MCSC-Bench: Multimodal Context-to-Script Creation for Realistic Video Production**|Huanran Hu et.al.|[2604.15127](http://arxiv.org/abs/2604.15127)|null|
+|**2026-04-16**|**Combinatorial Contracts Through Demand Types**|Elizabeth Baldwin et.al.|[2604.15125](http://arxiv.org/abs/2604.15125)|null|
 |**2026-04-14**|**Challenging Vision-Language Models with Physically Deployable Multimodal Semantic Lighting Attacks**|Yingying Zhao et.al.|[2604.12833](http://arxiv.org/abs/2604.12833)|null|
 |**2026-04-14**|**VULCAN: Vision-Language-Model Enhanced Multi-Agent Cooperative Navigation for Indoor Fire-Disaster Response**|Shengding Liu et.al.|[2604.12831](http://arxiv.org/abs/2604.12831)|null|
 |**2026-04-14**|**The role of System 1 and System 2 semantic memory structure in human and LLM biases**|Katherine Abramski et.al.|[2604.12816](http://arxiv.org/abs/2604.12816)|null|
@@ -90,18 +100,8 @@
 |**2026-04-08**|**Designing for Accountable Agents: a Viewpoint**|Stephen Cranefield et.al.|[2604.07204](http://arxiv.org/abs/2604.07204)|null|
 |**2026-04-08**|**BRIDGE: Multimodal-to-Text Retrieval via Reinforcement-Learned Query Alignment**|Mohamed Darwish Mounis et.al.|[2604.07201](http://arxiv.org/abs/2604.07201)|null|
 |**2026-04-08**|**Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery**|Jia Yu et.al.|[2604.07189](http://arxiv.org/abs/2604.07189)|null|
-|**2026-04-05**|**Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification**|Xinyan Ma et.al.|[2604.04190](http://arxiv.org/abs/2604.04190)|null|
-|**2026-04-05**|**Comparative reversal learning reveals rigid adaptation in LLMs under non-stationary uncertainty**|Haomiaomiao Wang et.al.|[2604.04182](http://arxiv.org/abs/2604.04182)|null|
-|**2026-04-05**|**Uncertainty-Aware Foundation Models for Clinical Data**|Qian Zhou et.al.|[2604.04175](http://arxiv.org/abs/2604.04175)|null|
-|**2026-04-05**|**A Model of Understanding in Deep Learning Systems**|David Peter Wallis Freeborn et.al.|[2604.04171](http://arxiv.org/abs/2604.04171)|null|
-|**2026-04-05**|**Incomplete Multi-View Multi-Label Classification via Shared Codebook and Fused-Teacher Self-Distillation**|Xu Yan et.al.|[2604.04170](http://arxiv.org/abs/2604.04170)|null|
-|**2026-04-05**|**AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis**|Tianhua Qi et.al.|[2604.04160](http://arxiv.org/abs/2604.04160)|null|
-|**2026-04-05**|**Hierarchical Co-Embedding of Font Shapes and Impression Tags**|Yugo Kubota et.al.|[2604.04158](http://arxiv.org/abs/2604.04158)|null|
-|**2026-04-05**|**Readable Minds: Emergent Theory-of-Mind-Like Behavior in LLM Poker Agents**|Hsieh-Ting Lin et.al.|[2604.04157](http://arxiv.org/abs/2604.04157)|null|
-|**2026-04-05**|**The Geometric Alignment Tax: Tokenization vs. Continuous Geometry in Scientific Foundation Models**|Prashant C. Raju et.al.|[2604.04155](http://arxiv.org/abs/2604.04155)|null|
-|**2026-04-05**|**Many Preferences, Few Policies: Towards Scalable Language Model Personalization**|Cheol Woo Kum et.al.|[2604.04144](http://arxiv.org/abs/2604.04144)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
