@@ -1,4 +1,4 @@
-## Updated on 2026.04.27
+## Updated on 2026.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-28**|**Robust Deepfake Detection: Mitigating Spatial Attention Drift via Calibrated Complementary Ensembles**|Minh-Khoa Le-Phan et.al.|[2604.25889](http://arxiv.org/abs/2604.25889)|null|
+|**2026-04-28**|**No Pedestrian Left Behind: Real-Time Detection and Tracking of Vulnerable Road Users for Adaptive Traffic Signal Control**|Anas Gamal Aly et.al.|[2604.25887](http://arxiv.org/abs/2604.25887)|null|
+|**2026-04-28**|**Cross-Lingual Jailbreak Detection via Semantic Codebooks**|Shirin Alanova et.al.|[2604.25716](http://arxiv.org/abs/2604.25716)|null|
+|**2026-04-28**|**Learning Generalizable Multimodal Representations for Software Vulnerability Detection**|Zeming Dong et.al.|[2604.25711](http://arxiv.org/abs/2604.25711)|null|
+|**2026-04-28**|**Think Before You Act -- A Neurocognitive Governance Model for Autonomous AI Agents**|Eranga Bandara et.al.|[2604.25684](http://arxiv.org/abs/2604.25684)|null|
+|**2026-04-28**|**Large language models eroding science understanding: an experimental study**|Harry Collins et.al.|[2604.25639](http://arxiv.org/abs/2604.25639)|null|
+|**2026-04-28**|**The Physical Limit of Neural Hypoxia Detection in the Black Sea from Satellite Observations**|Victor Mangeleer et.al.|[2604.25608](http://arxiv.org/abs/2604.25608)|null|
+|**2026-04-28**|**PLMGH: What Matters in PLM-GNN Hybrids for Code Classification and Vulnerability Detection**|Mohamed Taoufik Kaouthar El Idrissi et.al.|[2604.25599](http://arxiv.org/abs/2604.25599)|null|
+|**2026-04-28**|**SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents**|Mengyao Du et.al.|[2604.25562](http://arxiv.org/abs/2604.25562)|null|
+|**2026-04-28**|**PHISHREV: A Hybrid Machine Learning and Post-Hoc Non-monotonic Reasoning Framework for Context-Aware Phishing Website Classification**|Mainak Sen et.al.|[2604.25512](http://arxiv.org/abs/2604.25512)|null|
 |**2026-04-24**|**CosmicDancePro -- Measuring LEO satellite's orbital decay and network connectivity implications during solar storms**|Suvam Basak et.al.|[2604.22685](http://arxiv.org/abs/2604.22685)|null|
 |**2026-04-24**|**Adversarial Co-Evolution of Malware and Detection Models: A Bilevel Optimization Perspective**|Olha Jurečková et.al.|[2604.22569](http://arxiv.org/abs/2604.22569)|null|
 |**2026-04-24**|**Horizontal SCA Attacks on Binary kP Algorithms using Chevallier-Mames Atomic Blocks**|Gerald Isheanesu Matungamire et.al.|[2604.22429](http://arxiv.org/abs/2604.22429)|null|
@@ -34,12 +44,22 @@
 |**2026-04-23**|**DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion**|Tahar Chettaoui et.al.|[2604.21627](http://arxiv.org/abs/2604.21627)|null|
 |**2026-04-23**|**Suppressing the Erasure Error of Fusion Operation in Photonic Quantum Computing**|Xiangyu Ren et.al.|[2604.21475](http://arxiv.org/abs/2604.21475)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-28**|**Recursive Multi-Agent Systems**|Xiyuan Yang et.al.|[2604.25917](http://arxiv.org/abs/2604.25917)|null|
+|**2026-04-28**|**DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios**|Jinxiang Meng et.al.|[2604.25914](http://arxiv.org/abs/2604.25914)|null|
+|**2026-04-28**|**Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models**|Ajmain Inqiad Alam et.al.|[2604.25903](http://arxiv.org/abs/2604.25903)|null|
+|**2026-04-28**|**Pythia: Toward Predictability-Driven Agent-Native LLM Serving**|Shan Yu et.al.|[2604.25899](http://arxiv.org/abs/2604.25899)|null|
+|**2026-04-28**|**TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning**|Dominik Żurek et.al.|[2604.25898](http://arxiv.org/abs/2604.25898)|null|
+|**2026-04-28**|**Three Models of RLHF Annotation: Extension, Evidence, and Authority**|Steve Coyne et.al.|[2604.25895](http://arxiv.org/abs/2604.25895)|null|
+|**2026-04-28**|**Gauging Axionic Symmetries and Dark Matter: In memory of George Lazarides**|Claudio Corianò et.al.|[2604.25888](http://arxiv.org/abs/2604.25888)|null|
+|**2026-04-28**|**From Threads to Trajectories: A Multi-LLM Pipeline for Community Knowledge Extraction from GitHub Issue Discussions**|Nazia Shehnaz Joynab et.al.|[2604.25880](http://arxiv.org/abs/2604.25880)|null|
+|**2026-04-28**|**Minimum Toffoli depth for the multi-controlled Toffoli gate via teleportation**|Spyros Tserkis et.al.|[2604.25861](http://arxiv.org/abs/2604.25861)|null|
+|**2026-04-28**|**Slice Agent: Identifying and Isolating Slices in Shared Open Radio Unit**|Felipe Arnholda et.al.|[2604.25857](http://arxiv.org/abs/2604.25857)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Meng Chu et.al.|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
 |**2026-04-24**|**Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data**|Hillary Mutisya et.al.|[2604.22730](http://arxiv.org/abs/2604.22730)|null|
@@ -61,7 +81,7 @@
 |**2026-04-23**|**Task-Driven Co-Design of Heterogeneous Multi-Robot Systems**|Maximilian Stralz et.al.|[2604.21894](http://arxiv.org/abs/2604.21894)|null|
 |**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Jiseon Kim et.al.|[2604.21871](http://arxiv.org/abs/2604.21871)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
