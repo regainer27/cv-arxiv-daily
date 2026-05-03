@@ -1,4 +1,4 @@
-## Updated on 2026.05.01
+## Updated on 2026.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,18 +43,8 @@
 |**2026-04-24**|**FixV2W: Correcting Invalid CVE-CWE Mappings with Knowledge Graph Embeddings**|Sevval Simsek et.al.|[2604.22176](http://arxiv.org/abs/2604.22176)|null|
 |**2026-04-24**|**Sharpness-Aware Poisoning: Enhancing Transferability of Injective Attacks on Recommender Systems**|Junsong Xie et.al.|[2604.22170](http://arxiv.org/abs/2604.22170)|null|
 |**2026-04-24**|**SHAPE: Unifying Safety, Helpfulness and Pedagogy for Educational LLMs**|Sihang et.al.|[2604.22134](http://arxiv.org/abs/2604.22134)|null|
-|**2026-04-23**|**CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis**|Arunabh Majumdar et.al.|[2604.21917](http://arxiv.org/abs/2604.21917)|null|
-|**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
-|**2026-04-23**|**Analytical and Machine Learning Methods for Model Discernment at CE $ν$ NS Experiments**|Iain A. Bisset et.al.|[2604.21869](http://arxiv.org/abs/2604.21869)|null|
-|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|[code](https://github.com/Arxiv-to-code/arxiv-260421860-transient-turn-injection-exposing-stateless-multi-turn-vulne)|
-|**2026-04-23**|**Generative artificial intelligence reduces social welfare through model collapse**|Fabian Baumann et.al.|[2604.21853](http://arxiv.org/abs/2604.21853)|null|
-|**2026-04-23**|**Cross-Modal Phantom: Coordinated Camera-LiDAR Spoofing Against Multi-Sensor Fusion in Autonomous Vehicles**|Shahriar Rahman Khan et.al.|[2604.21841](http://arxiv.org/abs/2604.21841)|null|
-|**2026-04-23**|**Adversarial Robustness of Near-Field Millimeter-Wave Imaging under Waveform-Domain Attacks**|Lhamo Dorje et.al.|[2604.21774](http://arxiv.org/abs/2604.21774)|null|
-|**2026-04-23**|**Resilience Revisited: A Multidimensional Framework Derived from Realistic Attack Scenarios**|Isaac Ortega Romero et.al.|[2604.21685](http://arxiv.org/abs/2604.21685)|null|
-|**2026-04-23**|**DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion**|Tahar Chettaoui et.al.|[2604.21627](http://arxiv.org/abs/2604.21627)|null|
-|**2026-04-23**|**Suppressing the Erasure Error of Fusion Operation in Photonic Quantum Computing**|Xiangyu Ren et.al.|[2604.21475](http://arxiv.org/abs/2604.21475)|null|
 
-<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
 
 ## AI
 
@@ -90,18 +80,8 @@
 |**2026-04-24**|**Mobility Aware Power Control for VCSEL Based Indoor OWC**|Walter Zibusiso Ncube et.al.|[2604.22682](http://arxiv.org/abs/2604.22682)|null|
 |**2026-04-24**|**BERAG: Bayesian Ensemble Retrieval-Augmented Generation for Knowledge-based Visual Question Answering**|Jinghong Chen et.al.|[2604.22678](http://arxiv.org/abs/2604.22678)|null|
 |**2026-04-24**|**Operational Feature Fingerprints of Graph Datasets via a White-Box Signal-Subspace Probe**|Yuchen Xiong et.al.|[2604.22676](http://arxiv.org/abs/2604.22676)|null|
-|**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
-|**2026-04-23**|**Characterizing Streaming Decidability of CSPs via Non-Redundancy**|Amatya Sharma et.al.|[2604.21922](http://arxiv.org/abs/2604.21922)|null|
-|**2026-04-23**|**First measurement of wind line formation regions in an early O-type star**|D. Pauli et.al.|[2604.21920](http://arxiv.org/abs/2604.21920)|null|
-|**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|
-|**2026-04-23**|**Low-Rank Adaptation Redux for Large Models**|Bingcong Li et.al.|[2604.21905](http://arxiv.org/abs/2604.21905)|null|
-|**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|null|
-|**2026-04-23**|**Mapping the Political Discourse in the Brazilian Chamber of Deputies: A Multi-Faceted Computational Approach**|Flávio Soriano et.al.|[2604.21897](http://arxiv.org/abs/2604.21897)|null|
-|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
-|**2026-04-23**|**Task-Driven Co-Design of Heterogeneous Multi-Robot Systems**|Maximilian Stralz et.al.|[2604.21894](http://arxiv.org/abs/2604.21894)|null|
-|**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Jiseon Kim et.al.|[2604.21871](http://arxiv.org/abs/2604.21871)|null|
 
-<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
