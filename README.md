@@ -1,4 +1,4 @@
-## Updated on 2026.05.03
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**The Limits of AI-Driven Allocation: Optimal Screening under Aleatoric Uncertainty**|Santiago Cortes-Gomez et.al.|[2605.07979](http://arxiv.org/abs/2605.07979)|null|
+|**2026-05-08**|**Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs**|Hanlin Cai et.al.|[2605.07961](http://arxiv.org/abs/2605.07961)|null|
+|**2026-05-08**|**Longitudinal Analyses of SAST Tools: A CodeQL Case Study**|Jean-Charles Noirot Ferrand et.al.|[2605.07900](http://arxiv.org/abs/2605.07900)|null|
+|**2026-05-08**|**Unsafe by Flow: Uncovering Bidirectional Data-Flow Risks in MCP Ecosystem**|Xinyi Hou et.al.|[2605.07836](http://arxiv.org/abs/2605.07836)|null|
+|**2026-05-08**|**Can I Check What I Designed? Mapping Security Design DSLs to Code Analyzers**|Sven Peldszus et.al.|[2605.07814](http://arxiv.org/abs/2605.07814)|null|
+|**2026-05-08**|**Securing the Dark Matter: A Semantic-Enhanced Neuro-Symbolic Framework for Supply Chain Analysis of Opaque Industrial Software**|Bowei Ning et.al.|[2605.07737](http://arxiv.org/abs/2605.07737)|null|
+|**2026-05-08**|**Fortifying Time Series: DTW-Certified Robust Anomaly Detection**|Shijie Liu et.al.|[2605.07690](http://arxiv.org/abs/2605.07690)|null|
+|**2026-05-08**|**Kolmogorov--Nagumo Mean Frameworks for Conditional Entropy**|Akira Kamatsuka et.al.|[2605.07624](http://arxiv.org/abs/2605.07624)|null|
+|**2026-05-08**|**Beyond Defenses: Manifold-Aligned Regularization for Intrinsic 3D Point Cloud Robustness**|Pedro Alonso et.al.|[2605.07590](http://arxiv.org/abs/2605.07590)|null|
+|**2026-05-08**|**Resilience of IEC 61850 Sampled Values-Based Protection Systems Under Coordinated False Data Injections**|Denys Mishchenko et.al.|[2605.07535](http://arxiv.org/abs/2605.07535)|null|
 |**2026-04-30**|**Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders**|Emma Andrews et.al.|[2604.28176](http://arxiv.org/abs/2604.28176)|null|
 |**2026-04-30**|**Unsafe and Unused? A History of Utility Code in Mature Open Source Projects**|Brandon Keller et.al.|[2604.28146](http://arxiv.org/abs/2604.28146)|null|
 |**2026-04-30**|**Source-independent quantum key distribution without pre-sending entanglement**|Rong-Zheng Liu et.al.|[2604.28089](http://arxiv.org/abs/2604.28089)|null|
@@ -33,23 +43,23 @@
 |**2026-04-28**|**PLMGH: What Matters in PLM-GNN Hybrids for Code Classification and Vulnerability Detection**|Mohamed Taoufik Kaouthar El Idrissi et.al.|[2604.25599](http://arxiv.org/abs/2604.25599)|null|
 |**2026-04-28**|**SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents**|Mengyao Du et.al.|[2604.25562](http://arxiv.org/abs/2604.25562)|null|
 |**2026-04-28**|**PHISHREV: A Hybrid Machine Learning and Post-Hoc Non-monotonic Reasoning Framework for Context-Aware Phishing Website Classification**|Mainak Sen et.al.|[2604.25512](http://arxiv.org/abs/2604.25512)|null|
-|**2026-04-24**|**CosmicDancePro -- Measuring LEO satellite's orbital decay and network connectivity implications during solar storms**|Suvam Basak et.al.|[2604.22685](http://arxiv.org/abs/2604.22685)|null|
-|**2026-04-24**|**Adversarial Co-Evolution of Malware and Detection Models: A Bilevel Optimization Perspective**|Olha Jurečková et.al.|[2604.22569](http://arxiv.org/abs/2604.22569)|null|
-|**2026-04-24**|**Horizontal SCA Attacks on Binary kP Algorithms using Chevallier-Mames Atomic Blocks**|Gerald Isheanesu Matungamire et.al.|[2604.22429](http://arxiv.org/abs/2604.22429)|null|
-|**2026-04-24**|**Automation-Exploit: A Multi-Agent LLM Framework for Adaptive Offensive Security with Digital Twin-Based Risk-Mitigated Exploitation**|Biagio Andreucci et.al.|[2604.22427](http://arxiv.org/abs/2604.22427)|null|
-|**2026-04-24**|**Large Language Model Counterarguments in Older Adults: Cognitive Offloading or Vulnerability to Moral Persuasion?**|Kou Tamura et.al.|[2604.22356](http://arxiv.org/abs/2604.22356)|null|
-|**2026-04-24**|**Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization**|Jeonggon Kim et.al.|[2604.22310](http://arxiv.org/abs/2604.22310)|null|
-|**2026-04-24**|**AutoINV: Automated Invariant Generation Framework for Formal Verification on High-Level Synthesis Designs**|Xiaofeng Zhou et.al.|[2604.22285](http://arxiv.org/abs/2604.22285)|null|
-|**2026-04-24**|**FixV2W: Correcting Invalid CVE-CWE Mappings with Knowledge Graph Embeddings**|Sevval Simsek et.al.|[2604.22176](http://arxiv.org/abs/2604.22176)|null|
-|**2026-04-24**|**Sharpness-Aware Poisoning: Enhancing Transferability of Injective Attacks on Recommender Systems**|Junsong Xie et.al.|[2604.22170](http://arxiv.org/abs/2604.22170)|null|
-|**2026-04-24**|**SHAPE: Unifying Safety, Helpfulness and Pedagogy for Educational LLMs**|Sihang et.al.|[2604.22134](http://arxiv.org/abs/2604.22134)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling**|Tong Zheng et.al.|[2605.08083](http://arxiv.org/abs/2605.08083)|null|
+|**2026-05-08**|**Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration**|Shuhang Lin et.al.|[2605.08077](http://arxiv.org/abs/2605.08077)|null|
+|**2026-05-08**|**Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping**|Maryam Maghsoudi et.al.|[2605.08075](http://arxiv.org/abs/2605.08075)|null|
+|**2026-05-08**|**EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction**|Wei Yu et.al.|[2605.08073](http://arxiv.org/abs/2605.08073)|null|
+|**2026-05-08**|**Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment**|Jerry Jiang et.al.|[2605.08064](http://arxiv.org/abs/2605.08064)|null|
+|**2026-05-08**|**Flow-OPD: On-Policy Distillation for Flow Matching Models**|Zhen Fang et.al.|[2605.08063](http://arxiv.org/abs/2605.08063)|null|
+|**2026-05-08**|**The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents**|Jiayuan Liu et.al.|[2605.08060](http://arxiv.org/abs/2605.08060)|null|
+|**2026-05-08**|**Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization**|Hanchao Liu et.al.|[2605.08054](http://arxiv.org/abs/2605.08054)|null|
+|**2026-05-08**|**MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation**|Xinyan Ye et.al.|[2605.08050](http://arxiv.org/abs/2605.08050)|null|
+|**2026-05-08**|**Accurate and Efficient Statistical Testing for Word Semantic Breadth**|Yo Ehara et.al.|[2605.08048](http://arxiv.org/abs/2605.08048)|null|
 |**2026-04-30**|**OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction**|Junyoung Lee et.al.|[2604.28197](http://arxiv.org/abs/2604.28197)|null|
 |**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
 |**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
@@ -70,18 +80,8 @@
 |**2026-04-28**|**From Threads to Trajectories: A Multi-LLM Pipeline for Community Knowledge Extraction from GitHub Issue Discussions**|Nazia Shehnaz Joynab et.al.|[2604.25880](http://arxiv.org/abs/2604.25880)|null|
 |**2026-04-28**|**Minimum Toffoli depth for the multi-controlled Toffoli gate via teleportation**|Spyros Tserkis et.al.|[2604.25861](http://arxiv.org/abs/2604.25861)|null|
 |**2026-04-28**|**Slice Agent: Identifying and Isolating Slices in Shared Open Radio Unit**|Felipe Arnholda et.al.|[2604.25857](http://arxiv.org/abs/2604.25857)|null|
-|**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
-|**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Meng Chu et.al.|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
-|**2026-04-24**|**Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data**|Hillary Mutisya et.al.|[2604.22730](http://arxiv.org/abs/2604.22730)|null|
-|**2026-04-24**|**Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation**|Rajinder Sandhu et.al.|[2604.22722](http://arxiv.org/abs/2604.22722)|null|
-|**2026-04-24**|**ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization**|Jiajun Yu et.al.|[2604.22715](http://arxiv.org/abs/2604.22715)|null|
-|**2026-04-24**|**Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems**|Mengzhuo Chen et.al.|[2604.22708](http://arxiv.org/abs/2604.22708)|null|
-|**2026-04-24**|**WAsp: The Wideband (W) Adaptive-Scale Pixel (Asp) Deconvolution Algorithm for Interferometric Imaging**|M. Hsieh et.al.|[2604.22691](http://arxiv.org/abs/2604.22691)|null|
-|**2026-04-24**|**Mobility Aware Power Control for VCSEL Based Indoor OWC**|Walter Zibusiso Ncube et.al.|[2604.22682](http://arxiv.org/abs/2604.22682)|null|
-|**2026-04-24**|**BERAG: Bayesian Ensemble Retrieval-Augmented Generation for Knowledge-based Visual Question Answering**|Jinghong Chen et.al.|[2604.22678](http://arxiv.org/abs/2604.22678)|null|
-|**2026-04-24**|**Operational Feature Fingerprints of Graph Datasets via a White-Box Signal-Subspace Probe**|Yuchen Xiong et.al.|[2604.22676](http://arxiv.org/abs/2604.22676)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
